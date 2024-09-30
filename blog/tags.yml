@@ -1,19 +1,14 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
+beer:
+  label: Beer
+  permalink: /beer
+  description: Beer
 
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
+wine:
+  label: Wine
+  permalink: /wine
+  description: Wine
 
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
-
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
+soda:
+  label: Soda
+  permalink: /soda
+  description: Soda
