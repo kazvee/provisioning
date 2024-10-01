@@ -1,9 +1,9 @@
 {
-    "label": "Bread",
+    "label": "Cuban",
     "position": 2,
     "link": {
       "type": "generated-index",
-      "description": "🍞 Bread recipes"
+      "description": "Cuban recipes"
     }
   }
   
