@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Welcome
 
-Welcome to **Provisionings** — an online recipe collection. 
+Welcome to **Provisioning** — an online recipe collection. 
 
 ## How to Use this Site
 
