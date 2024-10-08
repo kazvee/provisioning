@@ -1,3 +1,9 @@
+---
+title: Chicken Curry
+description: Chicken Curry
+tags: [Chinese, Curry, In My Kitchen, Slow Cooker]
+---
+
 # Chicken Curry
 
 🍲 Slow Cooker Recipe
