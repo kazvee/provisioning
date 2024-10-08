@@ -44,15 +44,15 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           // TODO: Test this feature
-        //   editUrl:
-        //     'https://github.com/kazvee/provisioning/',
-        // },
-        // blog: {
-        //   showReadingTime: true,
-        //   feedOptions: {
-        //     type: ['rss', 'atom'],
-        //     xslt: true,
-        //   },
+          //   editUrl:
+          //     'https://github.com/kazvee/provisioning/',
+          // },
+          // blog: {
+          //   showReadingTime: true,
+          //   feedOptions: {
+          //     type: ['rss', 'atom'],
+          //     xslt: true,
+          //   },
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           // TODO: Test this feature
@@ -114,6 +114,14 @@ const config = {
               {
                 label: 'About',
                 to: '/docs/intro',
+              },
+            ],
+          },
+          {
+            title: 'Credits',
+            items: [
+              {
+                html: '<a href="https://icons8.com/icon/NJtCLdKaUFe3/recipe" target="_blank" rel="noopener noreferrer">Recipe</a> icon by <a href="https://icons8.com" target="_blank" rel="noopener noreferrer">Icons8</a>',
               },
             ],
           },
