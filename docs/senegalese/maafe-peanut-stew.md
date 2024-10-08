@@ -6,7 +6,7 @@ tags: [beef, in-my-kitchen, photos, senegalese, stew]
 
 # Maafé (Peanut Stew)
 
-# Ingredients
+## Ingredients
 2 lbs stewing beef, chopped into smaller pieces  
 1 onion, chopped  
 1 red bell pepper, chopped  
@@ -20,7 +20,7 @@ tags: [beef, in-my-kitchen, photos, senegalese, stew]
 2 cups stock / beef broth  
 1 tablespoon beef stock / beef bouillon powder (Like Knorr brand, for example)
 
-# Directions
+## Directions
 Heat the oil in a large pan on medium heat and sauté the beef, seasoned with half the pepper and a pinch of salt, for 8 to 10 minutes.  
 Add the onions, and bell pepper to the pan and sauté for another few minutes, until softened.  
 Add in the tomato paste, stir, and cook for about 5 minutes more.  

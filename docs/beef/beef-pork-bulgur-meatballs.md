@@ -7,7 +7,7 @@ tags: [beef, in-my-kitchen, meatballs, pork]
 # Baked Beef & Pork Bulgur Meatballs
 *(This is an idea cobbled together from a few sources.)*
 
-# Ingredients
+## Ingredients
 1 kg ground beef, pork, or a mixture of both.  
 1 cup coarse bulgur wheat (uncooked)  
 300 g shallots, finely chopped  
@@ -18,7 +18,7 @@ tags: [beef, in-my-kitchen, meatballs, pork]
 2 eggs, beaten  
 salt and pepper, to taste
 
-# Directions
+## Directions
 Cook the bulgur wheat according to directions, drain (if needed) and set aside to cool.  
 In a large bowl, combine the other ingredients and mix well. Add in the cooked bulgur wheat, mix again, and form into meatballs. (At this point you could put the raw meatballs in the fridge for 1 to 4 hours before cooking, if preferred.)  
 Preheat the oven to 200C (180C fan, 390F), arrange the meatballs on a baking tray and cook for 20-25 minutes, making sure they’re no longer pink in the middle when done.

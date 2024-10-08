@@ -7,7 +7,7 @@ tags: [beef, in-my-kitchen, meatballs, pork]
 # Burgers
 *(Not so much a recipe as a reminder to myself!)*
 
-# Ingredients
+## Ingredients
 2 pieces bread, cut into 1/4-inch pieces  
 1/3 cup milk  
 2.5 teaspoons kosher salt  
@@ -18,7 +18,7 @@ tags: [beef, in-my-kitchen, meatballs, pork]
 3 pounds ground beef (recommended 85% lean)  
 3 scallions or onions, finely diced (optional)
 
-# Directions
+## Directions
 Make a panade with the bread and milk: Combine both, smush with a fork and let sit for 5 to 10 minutes or so to get a chunky paste.
 Add the other seasonings except for meat and onions, and mix well. Finally, add in the onions and meat, and mix until consistent. Form into 8 patties, and cook.
 

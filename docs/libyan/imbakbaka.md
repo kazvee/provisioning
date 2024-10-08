@@ -7,7 +7,7 @@ tags: [beef, in-my-kitchen, libyan, stew, slow-cooker]
 # Imbakbaka – Libyan Tomato Stew with Meat & Pasta
 Similar to Minestrone, this stew will serve 4 – 5 people
 
-# Ingredients for the 7 Spice Mix 
+## Ingredients for the 7 Spice Mix 
 *This makes 1 teaspoon, of which you need 1/2 to make Bzaar spice mix. The leftover spice mix can be used in other dishes, perhaps on chicken before oven cooking.*  
 1/4 teaspoon black pepper  
 1/4 teaspoon ground cumin  
@@ -17,14 +17,14 @@ Similar to Minestrone, this stew will serve 4 – 5 people
 1/16 teaspoon ground cardamom  
 1/16 teaspoon ground nutmeg
 
-# Ingredients for the Bzaar Spice Mix
+## Ingredients for the Bzaar Spice Mix
 *This makes 3 teaspoons, of which you need 2 for this recipe. The leftover spice mix can be used in other dishes, perhaps on chicken before oven cooking.*  
 1 1/4 teaspoon turmeric  
 3/4 teaspoon caraway seeds, crushed in a mortar and pestle  
 1/2 teaspoon coriander  
 1/2 teaspoon of the 7 Spice Mix, listed above
 
-# Ingredients for the Imbakbaka
+## Ingredients for the Imbakbaka
 1/4 cup vegetable oil, to fry the meat  
 1 kg (2.2 lbs) lamb or beef cubes (could also use chicken)  
 2 medium onions, diced  
@@ -37,7 +37,7 @@ Similar to Minestrone, this stew will serve 4 – 5 people
 500 ml (17 fl oz) lamb or beef stock  
 2 1/2 teaspoons salt, or to taste
 
-# Directions for the Imbakbaka
+## Directions for the Imbakbaka
 In a large pot on high heat, sear the meat (you may need to do this in batches) until browned. Remove from pan and set aside.  
 Turn the heat down to medium and sauté the onion for 2 minutes. Add the minced garlic, and cook for a few minutes until they have softened and deglazed the bottom of the pot.  
 Return the meat to the pot, as well as any cooking juices. If you are using the chili peppers, and/or want to add any vegetables to the stew, now is the time to add those in.  

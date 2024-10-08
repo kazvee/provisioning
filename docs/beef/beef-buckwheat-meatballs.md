@@ -6,7 +6,7 @@ tags: [beef, in-my-kitchen, meatballs]
 
 # Baked Beef & Buckwheat Meatballs
 
-# Ingredients
+## Ingredients
 1 cup buckwheat / kasha, uncooked  
 1 kg ground beef (could also use half chicken or pork meat, or a combination of these to your liking)  
 1 onion, finely diced  
@@ -17,7 +17,7 @@ pepper, to taste
 salt, to taste  
 oil, for frying
 
-# Directions
+## Directions
 
 **Prepare the buckwheat:**  
 Cook 1 cup buckwheat with 2 cups of water and 1 stock cube in a rice cooker. Let the rice cooker cook it all for the automatic cycle (which takes 25 minutes on my rice cooker), then leave it on ‘warm’ for another 15 minutes so it’s nice and fluffy. You could also use leftover cooked buckwheat.  
