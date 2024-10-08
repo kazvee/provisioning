@@ -90,7 +90,12 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Recipes',
+            label: 'All Recipes',
+          },
+          {
+            to: '/docs/tags',
+            label: 'Browse Recipes by Tag',
+            position: 'left',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           // {
