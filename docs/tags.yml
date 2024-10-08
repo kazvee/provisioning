@@ -1,0 +1,339 @@
+austrian:
+  label: Austrian
+  permalink: /austrian
+  description: Austrian recipes
+
+beef:
+  label: Beef
+  permalink: /beef
+  description: Beef recipes 🥩
+
+bread:
+  label: Bread
+  permalink: /bread
+  description: Bread recipes 🍞
+
+bulgarian:
+  label: Bulgarian
+  permalink: /bulgarian
+  description: Bulgarian recipes
+
+cake:
+  label: Cake
+  permalink: /cake
+  description: Cake recipes 🍰
+
+casserole:
+  label: Casserole
+  permalink: /casserole
+  description: Casserole recipes 🍲
+
+cast-iron:
+  label: Cast Iron
+  permalink: /cast-iron
+  description: Cast Iron recipes 🍳
+
+chicken:
+  label: Chicken
+  permalink: /chicken
+  description: Chicken recipes 🍗
+
+chinese:
+  label: Chinese
+  permalink: /chinese
+  description: Chinese recipes
+
+cookies:
+  label: Cookies
+  permalink: /cookies
+  description: Cookie recipes 🍪
+
+copycat:
+  label: Copycat
+  permalink: /copycat
+  description: Copycat recipes 😺
+
+crafts:
+  label: Crafts
+  permalink: /crafts
+  description: Not recipes, but a list of some of the craft projects I've made! 🧶
+
+cuban:
+  label: Cuban
+  permalink: /cuban
+  description: Cuban recipes
+
+curry:
+  label: Curry
+  permalink: /curry
+  description: Curry recipes 🍛
+
+danish:
+  label: Danish
+  permalink: /danish
+  description: Danish recipes
+
+desserts:
+  label: Desserts
+  permalink: /desserts
+  description: Dessert recipes 🍨
+
+drinks:
+  label: Drinks
+  permalink: /drinks
+  description: Drink recipes 🍹
+
+ethiopian:
+  label: Ethiopian
+  permalink: /ethiopian
+  description: Ethiopian recipes
+
+fish:
+  label: Fish
+  permalink: /fish
+  description: Fish recipes 🐟
+
+freezer-to-oven:
+  label: Freezer to Oven
+  permalink: /freezer-to-oven
+  description: Freezer to Oven recipes ❄️➡️🔥
+
+french:
+  label: French
+  permalink: /french
+  description: French recipes
+
+german:
+  label: German
+  permalink: /german
+  description: German recipes
+
+greek:
+  label: Greek
+  permalink: /greek
+  description: Greek recipes
+
+hungarian:
+  label: Hungarian
+  permalink: /hungarian
+  description: Hungarian recipes
+
+in-my-kitchen:
+  label: In My Kitchen
+  permalink: /in-my-kitchen
+  description: Recipes made in my kitchen 👩‍🍳
+
+indian:
+  label: Indian
+  permalink: /indian
+  description: Indian recipes
+
+indonesian:
+  label: Indonesian
+  permalink: /indonesian
+  description: Indonesian recipes
+
+iraqi:
+  label: Iraqi
+  permalink: /iraqi
+  description: Iraqi recipes
+
+italian:
+  label: Italian
+  permalink: /italian
+  description: Italian recipes
+
+lamb:
+  label: Lamb
+  permalink: /lamb
+  description: Lamb recipes 
+
+latvian:
+  label: Latvian
+  permalink: /latvian
+  description: Latvian recipes
+
+lebanese: 
+  label: Lebanese
+  permalink: /lebanese
+  description: Lebanese recipes
+
+libyan:
+  label: Libyan
+  permalink: /libyan
+  description: Libyan recipes
+
+meatballs:
+  label: Meatballs
+  permalink: /meatballs
+  description: Meatballs recipes Ⓜ️
+
+mexican: 
+  label: Mexican
+  permalink: /mexican
+  description: Mexican recipes
+
+moroccan:
+  label: Moroccan
+  permalink: /moroccan
+  description: Moroccan recipes
+
+muffins:
+  label: muffins
+  permalink: /muffins
+  description: Muffins recipes 🧁
+
+pasta:
+  label: pasta
+  permalink: /pasta
+  description: Pasta recipes 🍝
+
+persian:
+  label: persian
+  permalink: /persian
+  description: Persian recipes
+
+photos:
+  label: Photos
+  permalink: /recipes/photos
+  description: Recipes with photos 🖼️
+
+pickled:
+  label: Pickled
+  permalink: /pickled
+  description: Pickled recipes
+
+pie:
+  label: Pie
+  permalink: /pie
+  description: Pie recipes 🥧
+
+pizza:
+  label: Pizza
+  permalink: /pizza
+  description: Pizza recipes 🍕
+
+polish:
+  label: Polish
+  permalink: /polish
+  description: Polish recipes
+
+pork:
+  label: Pork
+  permalink: /pork
+  description: Pork recipes 
+
+portuguese:
+  label: Portuguese
+  permalink: /portuguese
+  description: Portuguese recipes
+
+potato: 
+  label: Potato
+  permalink: /potato
+  description: Potato recipes 🥔
+
+rice:
+  label: Rice
+  permalink: /rice
+  description: Rice recipes 🍚
+
+rice-cooker:
+  label: Rice Cooker
+  permalink: /rice-cooker
+  description: Rice Cooker recipes 🍚
+
+russian: 
+  label: Russian
+  permalink: /russian
+  description: Russian recipes
+
+salad:
+  label: Salad
+  permalink: /salad
+  description: Salad recipes 🥗
+
+sauce-gravy:
+  label: Sauce / Gravy
+  permalink: /sauce-gravy
+  description: Sauce / Gravy recipes
+
+scottish:
+  label: Scottish
+  permalink: /scottish
+  description: Scottish recipes
+
+senegalese:
+  label: Senegalese
+  permalink: /senegalese
+  description: Senegalese recipes
+
+side-dishes:
+  label: Side Dishes
+  permalink: /side-dishes
+  description: Side Dishes recipes
+
+slow-cooker:
+  label: Slow Cooker
+  permalink: /slow-cooker
+  description: Slow Cooker recipes 🍲
+
+soup:
+  label: Soup
+  permalink: /soup
+  description: Soup recipes 🍜
+
+sourdough:
+  label: Sourdough
+  permalink: /sourdough
+  description: Sourdough recipes
+
+south-african:
+  label: South African
+  permalink: /south-african
+  description: South African recipes
+  
+stew:
+  label: Stew
+  permalink: /stew
+  description: Stew recipes 🍲
+
+swedish:
+  label: Swedish
+  permalink: /swedish
+  description: Swedish recipes
+
+thai:
+  label: Thai
+  permalink: /thai
+  description: Thai recipes
+
+tunisian:
+  label: Tunisian
+  permalink: /tunisian
+  description: Tunisian recipes
+
+turkish:
+  label: Turkish
+  permalink: /turkish
+  description: Turkish recipes
+
+uncategorized:
+  label: Uncategorized
+  permalink: /uncategorized
+  description: Uncategorized recipes
+
+vegan:
+  label: Vegan
+  permalink: /vegan
+  description: Vegan recipes
+
+vegetarian:
+  label: Vegetarian
+  permalink: /vegetarian
+  description: Vegetarian recipes
+
+vietnamese:
+  label: Vietnamese
+  permalink: /vietnamese
+  description: Vietnamese recipes
