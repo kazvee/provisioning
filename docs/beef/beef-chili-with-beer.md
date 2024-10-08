@@ -8,7 +8,7 @@ tags: [beef, in-my-kitchen, slow-cooker]
 
 🍲 Slow Cooker Recipe
 
-# Ingredients
+## Ingredients
 1 tablespoon vegetable oil  
 2 lbs (900 grams) ground beef  
 1 onion, diced  
@@ -28,7 +28,7 @@ Up to 3 tablespoons chili powder – to taste
 1 teaspoon ground black pepper – to taste  
 If needed: up to 2 cups water (could also use beef stock)
 
-# Directions
+## Directions
 In a large pot, heat the oil and cook the beef and onions. Add in the garlic and cook for another 2 minutes or so. Add in the spices, stir and cook for another few minutes. Add the tomato purée and water/stock (if needed). Simmer on Low for 30 minutes.
 Then, add in the green peppers and beans, adjust water/stock if needed, and simmer for another 30 minutes. Season to taste and serve.
 

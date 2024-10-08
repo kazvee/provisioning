@@ -10,7 +10,7 @@ tags: [beef, in-my-kitchen, photos, pork, slow-cooker]
 
 (There’s a quick and easy version of the recipe, posted first, as well as a longer version to try if you don’t have premixed spice packets.)
 
-# Ingredients – for the quick and easy version
+## Ingredients – for the quick and easy version
 1 boneless beef chuck roast (1.4kg to 1.8kg / 3 to 4 lbs) (Apparently could also use boneless pork sirloin roast cut, or 4 boneless, skinless chicken breasts instead)  
 1 packet ranch dressing mix  
 1 packet ‘au jus’ gravy mix  
@@ -18,7 +18,7 @@ tags: [beef, in-my-kitchen, photos, pork, slow-cooker]
 4 – 5 pepperoncini peppers (or lombardi, or mild banana peppers)  
 1/4 cup – 1/2 cup brine from the jar of peppers
 
-# Directions – for the quick and easy version
+## Directions – for the quick and easy version
 Place the roast in the slow cooker, and sprinkle the top with the ranch dressing and the au jus mix packets. Place peppers on top, add the butter, cut up into thin slices. No need to add any water to this!  
 Cover and cook on Low for 8 hours.  
 Serve with mashed potatoes, rice, or noodles. Optional: Add some quartered russet potatoes and/or a big handful of baby carrots to the slowcooker for the final 1-2 hours of cooking time.
@@ -41,7 +41,7 @@ Photo of 1st attempt (beef):
 Photo of 2nd attempt (beef, and used more lombardi peppers this time!):  
 <img src="/img/recipe-photos/20200726mississippipotroast.jpg" alt="Mississippi Pot Roast" style={{width: "500px", height: "auto"}} />
 
-# Ingredients – for the longer recipe
+## Ingredients – for the longer recipe
 1 boneless beef chuck roast (or top or bottom round roast) (1.4kg to 1.8kg / 3 to 4 pounds)  
 2 teaspoons kosher salt (or more, to taste)  
 1.5 teaspoons freshly ground black pepper (or more, to taste)  
@@ -56,7 +56,7 @@ Photo of 2nd attempt (beef, and used more lombardi peppers this time!):
 1 teaspoon buttermilk (optional)  
 Chopped parsley (optional, to garnish)
 
-# Directions – for the longer recipe
+## Directions – for the longer recipe
 Place the roast on a cutting board and rub the salt and pepper all over it. Then sprinkle the flour on top and massage into the meat.  
 In a large frying pan on high heat, warm the oil until almost at smoking points, and place the roast into the pan to sear on all sides (about 4 to 5 minutes per side) until you have a nicely browned outer crust.  
 Remove meat from the pan and place into the slow cooker.  
