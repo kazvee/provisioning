@@ -83,7 +83,7 @@ const config = {
         title: 'Home',
         logo: {
           alt: 'Site logo',
-          src: 'img/logo.svg',
+          src: 'img/logo.png',
         },
         items: [
           {
