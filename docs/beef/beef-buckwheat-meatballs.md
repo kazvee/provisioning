@@ -1,7 +1,7 @@
 ---
 title: Baked Beef & Buckwheat Meatballs
 description: Baked Beef & Buckwheat Meatballs
-tags: [Beef, In My Kitchen, Meatballs]
+tags: [beef, in-my-kitchen, meatballs]
 ---
 
 # Baked Beef & Buckwheat Meatballs

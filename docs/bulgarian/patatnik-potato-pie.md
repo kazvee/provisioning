@@ -1,7 +1,7 @@
 ---
 title: Potato Pie – Patatnik
 description: Potato Pie – Patatnik
-tags: [Bulgarian, In My Kitchen, Potato, Vegetarian]
+tags: [bulgarian, in-my-kitchen, potato, vegetarian]
 ---
 
 # Potato Pie – Patatnik

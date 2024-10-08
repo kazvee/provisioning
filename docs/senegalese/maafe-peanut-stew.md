@@ -1,7 +1,7 @@
 ---
 title: Maafé (Peanut Stew)
 description: Maafé (Peanut Stew)
-tags: [Beef, In My Kitchen, Photos, Senegalese, Stew]
+tags: [beef, in-my-kitchen, photos, senegalese, stew]
 ---
 
 # Maafé (Peanut Stew)

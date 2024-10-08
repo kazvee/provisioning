@@ -1,7 +1,7 @@
 ---
 title: Mini Meatloaf Muffins
 description: Mini Meatloaf Muffins
-tags: [Beef, In My Kitchen, Photos, Pork]
+tags: [beef, in-my-kitchen, photos, pork]
 ---
 
 # Mini Meatloaf Muffins

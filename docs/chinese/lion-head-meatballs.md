@@ -1,6 +1,10 @@
-# Lion Head Meatballs
+---
+title: Lion Head Meatballs
+description: Lion Head Meatballs
+tags: [beef, chinese, in-my-kitchen, meatballs]
+---
 
-Lion Head Meatballs  
+# Lion Head Meatballs
 Makes: 12 meatballs
 
 ## Ingredients for the Meatballs

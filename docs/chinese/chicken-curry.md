@@ -1,7 +1,7 @@
 ---
 title: Chicken Curry
 description: Chicken Curry
-tags: [Chinese, Curry, In My Kitchen, Slow Cooker]
+tags: [chinese, curry, in-my-kitchen, slow-cooker]
 ---
 
 # Chicken Curry

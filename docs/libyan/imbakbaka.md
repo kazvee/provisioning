@@ -1,7 +1,7 @@
 ---
 title: Imbakbaka – Tomato Stew with Meat & Pasta
 description: Imbakbaka – Tomato Stew with Meat & Pasta
-tags: [Beef, In My Kitchen, Libyan, Stew, Slow Cooker]
+tags: [beef, in-my-kitchen, libyan, stew, slow-cooker]
 ---
 
 # Imbakbaka – Libyan Tomato Stew with Meat & Pasta

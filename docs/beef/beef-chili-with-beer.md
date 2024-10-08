@@ -1,7 +1,7 @@
 ---
 title: Beef Chili with Beer
 description: Slow Cooked Beef Chili with Beer
-tags: [Beef, In My Kitchen, Slow Cooker]
+tags: [beef, in-my-kitchen, slow-cooker]
 ---
 
 # Slow Cooked Beef Chili with Beer

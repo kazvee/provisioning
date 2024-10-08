@@ -1,7 +1,7 @@
 ---
 title: Baked Beef & Pork Bulgur Meatballs
 description: Baked Beef & Pork Bulgur Meatballs
-tags: [Beef, In My Kitchen, Meatballs, Pork]
+tags: [beef, in-my-kitchen, meatballs, pork]
 ---
 
 # Baked Beef & Pork Bulgur Meatballs

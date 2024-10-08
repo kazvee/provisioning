@@ -1,7 +1,7 @@
 ---
 title: Mississippi Pot Roast
 description: Slow Cooker Mississippi Pot Roast
-tags: [Beef, In My Kitchen, Photos, Pork, Slow Cooker]
+tags: [beef, in-my-kitchen, photos, pork, slow-cooker]
 ---
 
 # Mississippi Pot Roast

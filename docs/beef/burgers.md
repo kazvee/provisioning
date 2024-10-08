@@ -1,7 +1,7 @@
 ---
 title: Burgers
 description: Burgers
-tags: [Beef, In My Kitchen, Meatballs, Pork]
+tags: [beef, in-my-kitchen, meatballs, pork]
 ---
 
 # Burgers
