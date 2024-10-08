@@ -1,3 +1,9 @@
+---
+title: Sourdough Crumpets
+description: Sourdough Crumpets
+tags: [bread, in-my-kitchen, sourdough]
+---
+
 # Sourdough Crumpets
 
 ## Ingredients

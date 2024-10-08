@@ -1,6 +1,10 @@
-# Pork With Mushrooms
+---
+title: Pork With Mushrooms
+description: Pork With Mushrooms
+tags: [chinese, in-my-kitchen, pork]
+---
 
-Pork With Mushrooms
+# Pork With Mushrooms
 
 # Ingredients
 450 g / 1 lb lean pork  

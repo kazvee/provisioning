@@ -1,3 +1,9 @@
+---
+title: Ropa Vieja – Shredded Beef
+description: Ropa Vieja – Shredded Beef Recipe
+tags: [beef, cuban, in-my-kitchen, slow-cooker, stew]
+---
+
 # Ropa Vieja – Shredded Beef
 
 🍲 Slow Cooker Recipe

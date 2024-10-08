@@ -1,6 +1,10 @@
-# Potato Pie – Patatnik
+---
+title: Potato Pie – Patatnik
+description: Potato Pie – Patatnik
+tags: [bulgarian, in-my-kitchen, potato, vegetarian]
+---
 
-Potato Pie – Patatnik
+# Potato Pie – Patatnik
 
 ## Ingredients
 3 – 4 medium-sized raw potatoes  
