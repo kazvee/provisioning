@@ -23,6 +23,6 @@ Cook the bulgur wheat according to directions, drain (if needed) and set aside t
 In a large bowl, combine the other ingredients and mix well. Add in the cooked bulgur wheat, mix again, and form into meatballs. (At this point you could put the raw meatballs in the fridge for 1 to 4 hours before cooking, if preferred.)  
 Preheat the oven to 200C (180C fan, 390F), arrange the meatballs on a baking tray and cook for 20-25 minutes, making sure they’re no longer pink in the middle when done.
 
-### My Notes:
+## My Notes
 I made 2 types of spiced meatball with the 1kg of pork and beef: one version with fresh Moroccan mint and sumac, and the other with 2 tablespoons za’atar, and a bunch of fresh chives and marjoram. (How lovely is it to have herbs from the garden?!)  
 I only used boiling water to make my bulgur wheat, but next time I might try with a stock cube added, too. This made 48 meatballs, and freezes well.

@@ -27,7 +27,7 @@ In a large pot on medium, heat the oil and fry the onions until lightly golden, 
 Add in the tomato paste and Berbere spices, stir well, and cook for another 5 minutes or so until the mixture has darkened a bit. Add in the water and stock cubes, and bring to a boil on medium-high heat. Add in the lentils, bring to a boil again on medium-high, then turn down the heat and simmer, partially covered, for about 50 minutes or so until the lentils are tender. Add in the chickpeas, season to taste, cook for another few minutes and serve.
 (Note: If making this in a slow cooker, follow the steps up until the part where it says to add the water and stock cubes to the pot — throw it all in the slow cooker instead and cook on High for 4 hours, removing the slow cooker lid for the final 1 hour of cooking, to help the stew thicken up.)
 
-### My Notes:
+## My Notes
 This doesn’t need to be cooked in a slow cooker, but my biggest pot wasn’t quite large enough to accommodate the stew plus comfort room to stir it all. I used the entire amount of Berbere spice, as the blend I used wasn’t hot/spicy. If I use a different blend, I’d taste it again before measuring to make sure I don’t make it too spicy for my taste!
 
 I used dried chickpeas that I soaked overnight and cooked separately, boiling them for 20 minutes. I added mine into the slow cooker at the start of the 4 hours, and they didn’t turn mushy. However if using canned chickpeas, I would have added them for the final hour, since I’d be taking the lid off anyway at that point.
