@@ -28,7 +28,7 @@ To thicken the juices into more of a gravy, make a paste with 2 teaspoons of cor
 
 Can use chuck roast, chuck eye roast, chuck shoulder, bottom round roast — any cut of meat will be good.
 
-### My Notes
+## My Notes
 From trying the quick and easy version: I’ve made this a few times now. For later versions, I skip the butter entirely, and I trim most of the fat off the roast, if possible. You can also skip the au jus gravy mix if you don’t have any. I don’t really like it with pepperoncini peppers, but we loved it with about 10 yellow pickled mild lombardi peppers as well as 1/4 of the brine. Alternately, mild pickled banana peppers (and some brine) works, too.  
 I didn’t sear the meat before putting it into the slow cooker because I wanted to make sure this would work as a ‘throw it and forget it’ type of meal, and it does. 😀
 I usually don’t bother with more than a drizzle of the cooking liquid the first night. Then I save the liquid in a glass measuring cup in the fridge overnight to make it easy to remove the solidified fat off the top, and use it as gravy for the leftovers.  

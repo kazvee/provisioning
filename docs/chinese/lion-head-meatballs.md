@@ -41,5 +41,5 @@ Alternatively, cook the meatballs in the oven; arrange in a casserole dish, cove
 
 Take the meatballs off the heat and season, to taste, with sea salt and ground white pepper. Transfer to a serving dish, garnish with the spring onions, sprinkle over a dash of seame oil and serve immediately.
 
-### My Notes
+## My Notes
 I used this recipe to make burger patties, and didn’t make the finished dish. For my burgers I used 750 grams ground beef /beef mince, 1 tablespoon ground ginger and 2 teaspoons garlic powder instead of fresh. I used finely chopped regular onions instead of spring onions, sunflower oil instead of sesame, and only used 1 tablespoon of soy sauce, so I could also use 1 tablespoon of fish oil. It made 8 burgers.

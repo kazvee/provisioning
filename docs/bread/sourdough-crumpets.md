@@ -18,7 +18,7 @@ Heat a bit of oil in a frying pan on Medium heat, and pour some batter into the 
 Cook for about 5 minutes, until the tops are set and full of small holes.  
 Flip them over (remove the egg rings, if using) and cook for another 3 minutes or so until golden on the bottom. These can be eaten as-is or toasted before serving.
 
-### My Notes
+## My Notes
 On the first attempt, I only had a week’s worth of sourdough starter discard so I scaled the recipe down and used 75g discard, 1/4 tsp baking soda, 1/2 tsp sugar, and a pinch of salt.
 
 Second batch: 160g discard, 1/2 tsp baking soda, 1 tsp sugar, 1/4 tsp salt. This was too much for only 2 egg rings, should have used 4.

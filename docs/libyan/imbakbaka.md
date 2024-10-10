@@ -48,5 +48,5 @@ Once the meat is tender, remove and debone (if your meat had bones) before addin
 **Note:** You need to use hot water here. If you use cold water, the pasta will stick to the bottom of the pot and you’re gonna have a bad time.
 Let the stew boil, stirring every minute or to to prevent the pasta sticking, until the noodled have cooked through and the sauce has thickened a bit. If the sauce thickens too much, adjust with hot water to thin it a bit.
 
-### My Notes:
+## My Notes
 I halved this recipe. I left out the green chili peppers, and used stewing beef. I cooked it to the point where I should have added the pasta. We’ll reheat the stew later  and do the pasta separate. Since the cut of meat I used took a lot longer than 45 minutes to get tender, the next time I make this, I’ll use the slow cooker — and I will make the entire recipe amount, since this turned out really lovely!

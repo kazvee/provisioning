@@ -22,5 +22,5 @@ tags: [beef, in-my-kitchen, meatballs, pork]
 Make a panade with the bread and milk: Combine both, smush with a fork and let sit for 5 to 10 minutes or so to get a chunky paste.
 Add the other seasonings except for meat and onions, and mix well. Finally, add in the onions and meat, and mix until consistent. Form into 8 patties, and cook.
 
-### My Notes:
+## My Notes
 Last time I made this I used 2 slices of bread and 1/4 cup milk, and used a blend of 1/2 lb pork and 1/2 lb beef. I added onions and mushrooms, diced finely, plus seasonings that I didn’t keep track of. I got 10 small burger patties from this as we prefer small portions. Could also make this into meatballs.

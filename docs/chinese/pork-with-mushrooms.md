@@ -22,5 +22,5 @@ Remove from the pan and keep hot. Wash and dry the mushrooms. Slice them thinly 
 
 Mix the cornflour (cornstarch) to a smooth paste with the stock or water, add to the pan and heat gently, stirring all the time, until slightly thickened.
 
-### My Notes
+## My Notes
 I used flour instead of cornstarch, 1/2 an Oxo beef cube for the stock, and 1 tablespoon of fish sauce. I also added a head of broccoli, cut into florets that had been blanched. Freezes nicely.

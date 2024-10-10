@@ -26,5 +26,5 @@ Cook 1 cup buckwheat with 2 cups of water and 1 stock cube in a rice cooker. Let
 Heat some oil in a frying pan and fry the onion and carrot until softened. Purée in a blender.  
 In a large bowl, combine the meat, onion and carrot blend, buckwheat, and spices. Form into meatball or patty shapes and fry in a pan until browned. To finish cooking, bake in an oven preheated to 180C / 350F for 20-25 minutes until no longer pink in the middle.
 
-### My Notes:
+## My Notes
 I’ve made meatballs with bulgur wheat before so thought I’d try it with buckwheat instead. I didn’t use fresh carrot or onions, I used about 1/2 cup of caramelised onion I had leftover from something else. I didn’t fry the meatballs at all: after forming them, I put them in the fridge for an hour to firm up, then baked them in the oven for 25 minutes. I divided the meatball mixture up into 3 batches and used different spice blends: one was Montreal steak spice, one was za’atar and sumac, one was baharat. This recipe made about 50 meatballs, most of which we froze for another time.

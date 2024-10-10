@@ -32,6 +32,6 @@ Quickly sauté the bell peppers, then remove those from the pan and add them int
 Add the rest of the ingredients into the slow cooker, and cook on high for 6 hours. Once done, the meat should be easily shredded using 2 forks.
 If the sauce needs thickened, you can remove the slow cooker lid and cook further in 30 minute increments until it has reduced to your preferred consistency.
 
-### My Notes
+## My Notes
 I used stewing beef cubes, and didn’t bother frying the peppers. I didn’t have white wine vinegar, so used apple cider vinegar. I used canned whole tomatoes since that’s what I had in the house, I just chopped them up a bit in the can with a knife.
 At the end of 5 hours on high, the stew was quite thick, so next time I may check it after 4 hours to see if it’s done. This turned out really nice, the meat was very tender and the leftovers froze well!
