@@ -36,10 +36,10 @@ For something so simple to put together, this really turned out nice! 😍
 I’ve made this with pork, too. It was nice — but I think we prefer the beef!  
 
 Photo of 1st attempt (beef):  
-<img src="/img/recipe-photos/20200711mississippipotroast-2.jpg" alt="Mississippi Pot Roast" style={{width: "500px", height: "auto"}} />
+<img src="/img/recipe-photos/20200711-Mississippi-Pot-Roast-2.jpg" alt="Mississippi Pot Roast" style={{width: "500px", height: "auto"}} />
 
 Photo of 2nd attempt (beef, and used more lombardi peppers this time!):  
-<img src="/img/recipe-photos/20200726mississippipotroast.jpg" alt="Mississippi Pot Roast" style={{width: "500px", height: "auto"}} />
+<img src="/img/recipe-photos/20200726-Mississippi-Pot-Roast.jpg" alt="Mississippi Pot Roast" style={{width: "500px", height: "auto"}} />
 
 ## Ingredients – for the longer recipe
 1 boneless beef chuck roast (or top or bottom round roast) (1.4kg to 1.8kg / 3 to 4 pounds)  

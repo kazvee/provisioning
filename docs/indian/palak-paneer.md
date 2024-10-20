@@ -1,7 +1,7 @@
 ---
 title: Palak Paneer – Spinach Curry
 description: Palak Paneer – Spinach Curry
-tags: [indian, in-my-kitchen, curry, photos, vegetarian]
+tags: [indian, in-my-kitchen, curry, vegetarian]
 ---
 
 # Palak Paneer – Spinach Curry
@@ -43,4 +43,4 @@ This turned out really nice, but I think we’ll sprinkle red chili flakes to se
 
 **Doubling This Recipe:** While this recipe probably doubles quite well, I’d have to do it in 2 batches due to the size of my blender. 🙂
 
-<img src="/img/recipe-photos/20191018palakpaneerspinachcurry.jpg" alt="Palak Paneer – Spinach Curry" style={{width: "500px", height: "auto"}} />
+<img src="/img/recipe-photos/20191018-Palak-Paneer-Spinach-Curry.jpg" alt="Palak Paneer – Spinach Curry" style={{width: "500px", height: "auto"}} />
