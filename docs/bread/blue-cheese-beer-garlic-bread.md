@@ -32,4 +32,4 @@ We used cheap lager and a mild, creamy blue cheese but next time a sharper one w
 This took about 50 min in my oven, and I think I left it at 180C. This is a rustic-type bread, sort of crumbly and there’s no chance you’ll be able to slice it thin and put it in the toaster!  
 I froze a couple of slices, wrapped in clingfilm and inside an airtight plastic container. When we thawed those out in the fridge a few weeks later, they were just as nice as the fresh-baked ones, so I think this freezes OK.
 
-<img src="/img/recipe-photos/20150802BeerBread.jpg" alt="Blue Cheese & Beer Garlic Bread" style={{width: "500px", height: "auto"}} />
+<img src="/img/recipe-photos/20150802-Beer-Bread.jpg" alt="Blue Cheese & Beer Garlic Bread" style={{width: "500px", height: "auto"}} />

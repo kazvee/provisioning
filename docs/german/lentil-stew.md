@@ -4,7 +4,7 @@ description: Slow Cooker Lentil Stew with Sausage
 tags: [german, in-my-kitchen, soup, photos, stew, slow-cooker]
 ---
 
-# Slow Cooker Lentil Stew with Sausage - Linsensuppe mit Würstchen
+# Lentil Stew with Sausage - Linsensuppe mit Würstchen
 
 ## Ingredients
 500 grams dried brown lentils  
@@ -38,4 +38,4 @@ The 2 litres of stock will make a thick stew, you can add more broth if you pref
 The top and sides will darken in colour, you will notice this when you stir halfway through, it doesn’t affect the taste.  
 This freezes well.
 
-<img src="/img/recipe-photos/20171126GermanStewLentils.jpg" alt="Lentil Stew with Sausage" style={{width: "500px", height: "auto"}} />
+<img src="/img/recipe-photos/20171126-German-Lentil-Stew.jpg" alt="German Lentil Stew with Sausage" style={{width: "500px", height: "auto"}} />

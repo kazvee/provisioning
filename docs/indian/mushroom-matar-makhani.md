@@ -55,4 +55,4 @@ I used frozen peas, and set them out to thaw a bit at the same time I started th
 
 **Doubling This Recipe:** While this recipe probably doubles quite well, I’d have to do it in 2 batches due to the size of my blender. 🙂
 
-<img src="/img/recipe-photos/20191018mushroommatarmakhani.jpg" alt="Mushroom Matar Makhani – Mushroom and Peas in a Creamy Sauce" style={{width: "500px", height: "auto"}} />
+<img src="/img/recipe-photos/20191018-Mushroom-Matar-Makhani.jpg" alt="Mushroom Matar Makhani – Mushroom and Peas in a Creamy Sauce" style={{width: "500px", height: "auto"}} />

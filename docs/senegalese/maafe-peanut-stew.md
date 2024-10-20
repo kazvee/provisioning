@@ -30,4 +30,4 @@ Add peanut butter and stir until dissolved. Simmer on Low for another 5 minutes,
 ## My Notes
 I halved this recipe and used 1 lb (450 grams) of ground beef instead of stewing meat. I fried the mince then drained it before returning it to the pan and carrying on with the recipe. I didn’t have beef stock or beef bouillon powder in the house so used 1.5 cups of water with 3/4 of a chicken stock cube I had floating around. I also used 1 canned tomato and some of the tomato juices from the can, since I had it in the fridge. Instead of cayenne pepper I used 1/2 teaspoon of Kashmiri chili powder. This made 4 meals for us (smaller portions).
 
-<img src="/img/recipe-photos/20210830maafepeanutstew.jpg" alt="Maafé (Peanut Stew)" style={{width: "500px", height: "auto"}} />
+<img src="/img/recipe-photos/20210830-Maafe-Peanut-Stew.jpg" alt="Maafé (Peanut Stew)" style={{width: "500px", height: "auto"}} />

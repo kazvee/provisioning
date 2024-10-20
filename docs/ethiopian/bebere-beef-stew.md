@@ -27,4 +27,4 @@ Simmer on Low until thickened.
 ## My Notes
 I used most of a 400ml can of whole tomatoes instead of fresh. I didn’t have beef stock so made chicken stock with cubes instead. I used mixed peppers instead of just red. I used Knorr brand Berbere spice blend. This made 3 meals for us (smaller portions).
 
-<img src="/img/recipe-photos/20210830berberestew.jpg" alt="Berbere Beef Stew" style={{width: "500px", height: "auto"}} />
+<img src="/img/recipe-photos/20210830-Berbere-Stew.jpg" alt="Berbere Beef Stew" style={{width: "500px", height: "auto"}} />
