@@ -8,7 +8,7 @@ tags: [mexican, chicken, freezer-to-oven, in-my-kitchen]
 
 ## Ingredients
 2 cups leftover chicken, diced  
-2.5 cups enchilada sauce, divided (Make your own sauce [here](enchilada-sauce-1) or [here](enchilada-sauce-2).)  
+2.5 cups enchilada sauce, divided (Make your own sauce [here](enchilada-sauce-1.md) or [here](enchilada-sauce-2.md).)  
 1.5 cups shredded cheddar cheese, divided  
 1/2 cup sour cream  
 1/4 cup fresh coriander leaves, chopped  
