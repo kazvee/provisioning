@@ -18,7 +18,7 @@ tags: [indian, in-my-kitchen, beef, slow-cooker]
 3 teaspoons ground coriander  
 1 (400g) tin chopped tomatoes  
 1 beef stock cube, crumbled (or if doing this in a traditional oven: 500 ml beef stock)  
-2 red chillies, finely chopped (optional)  
+2 red chilies, finely chopped (optional)  
 
 ## Directons
 Sear the meat in a large frying pan on Medium heat, then place in the slow cooker.  

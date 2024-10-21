@@ -12,7 +12,7 @@ olive oil, for frying
 400 grams (14 oz) mushrooms, thickly sliced  
 1 onion, coarsely chopped  
 3 garlic cloves, crushed or minced  
-1 red chilli pepper, finely chopped with seeds and pith removed (optional)  
+1 red chili pepper, finely chopped with seeds and pith removed (optional)  
 30 grams (1 oz) root ginger, grated  
 30 grams (1 oz) tomato purée  
 1 heaped teaspoon ground fenugreek  
@@ -31,7 +31,7 @@ olive oil, for frying
 
 ## Directions
 Heat some oil in a large pan, and sauté the mushrooms until golden. Remove and set aside for now. the Adding more oil if needed, fry the mustard seeds (and cumin seeds, and curry leaves) for a minute or so, until they crackle in the pan. Then add the onion to the pan and cook until soft and golden.  
-Add in the garlic, ginger and chilli pepper (if using) and cook for another 2 minutes. Stir in the other spices and cook for another minute until fragrant. If needed, add a splash of water if the mixture is too dry.  
+Add in the garlic, ginger and chili pepper (if using) and cook for another 2 minutes. Stir in the other spices and cook for another minute until fragrant. If needed, add a splash of water if the mixture is too dry.  
 Add the can of tomatoes and the chickpeas, and return the mushrooms to the pot. Stir and simmer for a few minutes. Add in the coconut milk and spinach, stir and simmer again.  If using fresh spinach, the dish is ready as soon as the leaves have wilted.
 
 ## My Notes

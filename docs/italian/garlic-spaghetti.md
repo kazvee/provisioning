@@ -1,10 +1,10 @@
 ---
-title: Garlic Spaghetti Pasta / Spaghetti Aglio e Olio
-description: Garlic Spaghetti Pasta / Spaghetti Aglio e Olio
+title: Garlic Spaghetti Pasta
+description: Garlic Spaghetti Pasta - Spaghetti Aglio e Olio
 tags: [italian, pasta, in-my-kitchen]
 ---
 
-# Garlic Spaghetti Pasta / Spaghetti Aglio e Olio
+# Garlic Spaghetti Pasta - Spaghetti Aglio e Olio
 Serves: 2
 
 ## Ingredients

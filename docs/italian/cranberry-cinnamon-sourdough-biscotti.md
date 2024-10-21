@@ -1,7 +1,7 @@
 ---
 title: Cranberry & Cinnamon Sourdough Biscotti
 description: Cranberry & Cinnamon Sourdough Biscotti
-tags: [italian, desserts, in-my-kitchen, photos]
+tags: [italian, cookies, in-my-kitchen, photos]
 ---
 
 # Cranberry & Cinnamon Sourdough Biscotti

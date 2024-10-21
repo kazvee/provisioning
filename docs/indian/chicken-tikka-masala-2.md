@@ -1,10 +1,10 @@
 ---
-title: Chicken Tikka Masala
-description: Chicken Tikka Masala
+title: Chicken Tikka Masala 2
+description: Chicken Tikka Masala 2
 tags: [indian, in-my-kitchen, curry, chicken]
 ---
 
-# Chicken Tikka Masala
+# Chicken Tikka Masala 2
 Serves: 6
 
 ## Ingredients for the Marinade
@@ -18,7 +18,7 @@ Serves: 6
 
 ## Ingredients for the Sauce
 1.5 kg (about 3 lbs) tomatoes  
-2 whole chilli peppers, chopped  
+2 whole chili peppers, chopped  
 2 tablespoons olive oil  
 2 tablespoons unsalted butter, melted  
 2 tablespoons tomato paste  
@@ -36,7 +36,7 @@ Combine all marinade ingredients in a medium bowl, add the chicken, and stir wel
 You can either cook the chicken on the grill, in a frying pan, or in the oven and set aside to put into the sauce later. Or you can add it to the puréed sauce later on if you prefer.
 
 ## Directions for the Sauce:
-In a large pot, heat the olive oil and butter over medium heat until the butter is melted. Add in garlic, ginger, chillies, tomato paste, and all spices (except for garam masala). Cook for a few minutes and then add in the tomatoes. Cook for another 5 minutes or so, then reduce the heat and simmer for 10 minutes or so. Allow the sauce to cool enough that you can safely put into into a blender or use a stick blender to get a smooth purée.
+In a large pot, heat the olive oil and butter over medium heat until the butter is melted. Add in garlic, ginger, chilies, tomato paste, and all spices (except for garam masala). Cook for a few minutes and then add in the tomatoes. Cook for another 5 minutes or so, then reduce the heat and simmer for 10 minutes or so. Allow the sauce to cool enough that you can safely put into into a blender or use a stick blender to get a smooth purée.
 
 If you cooked the chicken ahead of time, add it in now and simmer for a few minutes until warmed through.  
 If your chicken is still raw and in the marinade, place it (and the marinade mix) into the sauce at this point and simmer until the chicken is cooked throughout (usually about 45 minutes or so).

@@ -16,7 +16,7 @@ tags: [indian, in-my-kitchen, photos, vegetarian]
 50g fresh ginger (about 2 big thumb-size pieces), peeled & roughly chopped or grated  
 1 teaspoon coriander seeds  
 1 teaspoon cumin seeds  
-1/4 teaspoon chili powder or a pinch of chilli flakes  
+1/4 teaspoon chili powder or a pinch of chili flakes  
 1/2 teaspoon turmeric  
 2 teaspoon paprika  
 1/2 teaspoon salt  
