@@ -16,7 +16,7 @@ This one isn’t a slow cooker one but it’s easily adaptable if we like the re
 2 teaspoons ground cumin  
 2 teaspoons ground coriander  
 1 teaspoon ground turmeric  
-1/4 teaspoon mild chilli powder  
+1/4 teaspoon mild chili powder  
 2 tablespoons mango chutney  
 300 ml hot chicken stock  
 100 ml double cream  

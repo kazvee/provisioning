@@ -1,6 +1,6 @@
 ---
-title: Iraqi Slow Cooked Chicken
-description: Iraqi Slow Cooked Chicken
+title: Slow Cooked Chicken
+description: Slow Cooked Chicken
 tags: [iraqi, chicken, in-my-kitchen, slow-cooker]
 ---
 

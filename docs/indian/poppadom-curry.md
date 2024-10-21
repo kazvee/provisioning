@@ -1,6 +1,6 @@
 ---
-title: Palak Paneer – Spinach Curry
-description: Palak Paneer – Spinach Curry
+title: Papad Ki Subji – Rajasthani Poppadom Curry
+description: Papad Ki Subji – Rajasthani Poppadom Curry
 tags: [indian, in-my-kitchen, curry, vegetarian]
 ---
 

@@ -26,7 +26,7 @@ Serves: 4
 1/4 cup fresh coriander, chopped
 
 ## Directions
-Purée the tomatoes, chilli pepper, and ginger.  
+Purée the tomatoes, chili pepper, and ginger.  
 In a large saucepan on medium, heat the ghee and add the cumin seeds and asafoetida. When the cumin seeds start to crackle, add the powdered cashew and powdered sesame seeds, stir and cook for 1 – 2 minutes.  
 Pour in the tomato purée mixture, turmeric, and coriander. Add salt and sugar if desired, stir well, and cover the pot. Simmer for about 5 minutes until reduced and the sauce begins to separate from the oil.  
 In the meantime, slice the cheese and soak the cubes in 2 cups of boiled water for 5 minutes or so.  

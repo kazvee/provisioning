@@ -10,7 +10,7 @@ tags: [beef, chicken, in-my-kitchen]
 500g lean minced beef (10% or less fat)  
 2 medium onions, chopped  
 3 garlic cloves, peeled and ﬁnely chopped  
-1 – 2 teaspoons hot chilli powder (or to taste)  
+1 – 2 teaspoons hot chili powder (or to taste)  
 2 teaspoons ground cumin  
 2 teaspoons ground coriander  
 2 tablespoons plain ﬂour  
