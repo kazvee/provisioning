@@ -1,7 +1,7 @@
 ---
 title: Bolo do Caco – Madeiran Bread
 description: Bolo do Caco – Madeiran Bread
-tags: [portugese, bread, in-my-kitchen, photos]
+tags: [portuguese, bread, in-my-kitchen, photos]
 ---
 
 # Bolo do Caco – Madeiran Bread

@@ -184,18 +184,18 @@ muffins:
   description: Muffins recipes 🧁
 
 pasta:
-  label: pasta
+  label: Pasta
   permalink: /pasta
   description: Pasta recipes 🍝
 
 persian:
-  label: persian
+  label: Persian
   permalink: /persian
   description: Persian recipes
 
 photos:
   label: Photos
-  permalink: /recipes/photos
+  permalink: /photos
   description: Recipes with photos 🖼️
 
 pickled:
