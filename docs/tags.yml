@@ -143,6 +143,11 @@ italian:
   permalink: /italian
   description: Italian recipes
 
+jamaican:
+  label: Jamaican
+  permalink: /jamaican
+  description: Jamaican recipes
+
 lamb:
   label: Lamb
   permalink: /lamb
