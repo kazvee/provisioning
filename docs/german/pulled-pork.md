@@ -1,10 +1,10 @@
 ---
-title: Slow Cooker Pulled Pork
-description: Slow Cooker Pulled Pork
+title: Schweinefleisch - Pulled Pork
+description: Zerzupftes Schweinefleisch - Slow Cooker Pulled Pork
 tags: [german, in-my-kitchen, pork, slow-cooker]
 ---
 
-# Slow Cooker Pulled Pork
+# Zerzupftes Schweinefleisch - Slow Cooker Pulled Pork
 Serves: 6 – 8
 
 ## Ingredients
