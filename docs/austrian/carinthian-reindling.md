@@ -1,7 +1,7 @@
 ---
 title: Carinthian Reindling Cake
 description: Carinthian Reindling Cake
-tags: [austrian, cake, desserts]
+tags: [austrian, baking, cake]
 ---
 
 # Carinthian Reindling Cake

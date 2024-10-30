@@ -3,6 +3,11 @@ austrian:
   permalink: /austrian
   description: Austrian recipes
 
+baking:
+  label: Baking
+  permalink: /baking
+  description: Baking recipes
+
 beef:
   label: Beef
   permalink: /beef
@@ -72,11 +77,6 @@ danish:
   label: Danish
   permalink: /danish
   description: Danish recipes
-
-desserts:
-  label: Desserts
-  permalink: /desserts
-  description: Dessert recipes 🍨
 
 drinks:
   label: Drinks
