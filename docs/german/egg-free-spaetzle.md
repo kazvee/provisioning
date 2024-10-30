@@ -1,6 +1,6 @@
 ---
 title: Egg-free Spätzle
-description: SpäEgg-free Spätzletzle
+description: Egg-free Spätzle
 tags: [german, in-my-kitchen, pasta]
 ---
 
