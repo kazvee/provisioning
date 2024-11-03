@@ -8,18 +8,18 @@ tags: [german, beef]
 Serves: 2
 
 ## Ingredients for the onion rings
-1 onion, thinly sliced
-1/2 cup flour
-salt
+1 onion, thinly sliced  
+1/2 cup flour  
+salt  
 oil
 
 ## Ingredients for the meat
-2 boneless rib or rib eye steaks
-2 tablespoons English mustard
-2 tablespoons vegetable oil
-1 teaspoon salt
-1/2 teaspoon pepper
-1 tablespoon flour or cornstarch
+2 boneless rib or rib eye steaks  
+2 tablespoons English mustard  
+2 tablespoons vegetable oil  
+1 teaspoon salt  
+1/2 teaspoon pepper  
+1 tablespoon flour or cornstarch  
 2 cups stock or broth
 
 ## Directions for the onion rings
