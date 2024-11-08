@@ -28,3 +28,37 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+.pagination-nav__link .pagination-nav__label {
+  display: flex;
+  align-items: center;
+}
+
+.pagination-nav__link .pagination-nav__label::before,
+.pagination-nav__link .pagination-nav__label::after {
+  content: '';
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 18px;
+  height: 18px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.pagination-nav__link--prev .pagination-nav__label {
+  justify-content: flex-start;
+}
+
+.pagination-nav__link--prev .pagination-nav__label::before {
+  background-image: url('/img/prev.png');
+  margin-right: 5px;
+}
+
+.pagination-nav__link--next .pagination-nav__label {
+  justify-content: flex-end;
+}
+
+.pagination-nav__link--next .pagination-nav__label::after {
+  background-image: url('/img/next.png');
+  margin-left: 5px;
+}
