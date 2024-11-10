@@ -83,6 +83,11 @@ drinks:
   permalink: /drinks
   description: Drink recipes 🍹
 
+dumplings:
+  label: Dumplings
+  permalink: /dumplings
+  description: Dumpling recipes 🥟
+
 ethiopian:
   label: Ethiopian
   permalink: /ethiopian
