@@ -1,7 +1,7 @@
 ---
 title: Rindsgulasch – Beef Goulash 2
 description: Rindsgulasch – Beef Goulash 2
-tags: [german, beef, in-my-kitchen]
+tags: [german, beef, in-my-kitchen, stew]
 ---
 
 # Rindsgulasch – Beef Goulash 2

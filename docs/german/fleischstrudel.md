@@ -1,6 +1,6 @@
 ---
-title: Fleischstrudel
-description: Fleischstrudel – German Meat Strudel
+title: Fleischstrudel – Meat Strudel
+description: Fleischstrudel – Meat Strudel
 tags: [german, beef]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Egg-free Spätzle
 description: Egg-free Spätzle
-tags: [german, in-my-kitchen, pasta]
+tags: [german, in-my-kitchen, dumplings]
 ---
 
 # Egg-free Spätzle

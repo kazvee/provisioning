@@ -1,7 +1,7 @@
 ---
 title: Kalbsgulasch – Veal Goulash
 description: Kalbsgulasch – Veal Goulash
-tags: [german, beef]
+tags: [german, beef, stew]
 ---
 
 # Kalbsgulasch – Veal Goulash
