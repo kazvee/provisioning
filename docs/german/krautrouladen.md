@@ -35,3 +35,5 @@ Add 3 cups of the reserved cabbage water (or vegetable broth). Season with caraw
 Remove the cooked cabbage rolls, and keep them warm. Mix half of the sour cream with flour, add to the cabbage stew, and stir as it thickens.
 
 Serve with: Boiled potatoes. Garnish with the rest of the sour cream, and freshly chopped parsley.
+
+*(I’m adding the umlaut-free spelling of gefuellte krautrouladen in here to make it easier to search for this recipe.)*

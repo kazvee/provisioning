@@ -1,7 +1,7 @@
 ---
 title: Spätzle
 description: Spätzle
-tags: [german, in-my-kitchen, pasta]
+tags: [german, in-my-kitchen, dumplings]
 ---
 
 # Spätzle – Noodle Dumplings
