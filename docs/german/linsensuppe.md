@@ -1,10 +1,10 @@
 ---
-title: Slow Cooker Lentil Stew with Sausage
-description: Slow Cooker Lentil Stew with Sausage
+title: Linsensuppe mit Würstchen - Lentil Stew with Sausage
+description: Linsensuppe mit Würstchen - Slow Cooker Lentil Stew with Sausage
 tags: [german, in-my-kitchen, soup, photos, stew, slow-cooker]
 ---
 
-# Lentil Stew with Sausage - Linsensuppe mit Würstchen
+# Linsensuppe mit Würstchen - Slow Cooker Lentil Stew with Sausage
 
 ## Ingredients
 500 grams dried brown lentils  
