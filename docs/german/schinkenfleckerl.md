@@ -1,7 +1,7 @@
 ---
 title: Schinkenfleckerl – Ham & Pasta Casserole
 description: Schinkenfleckerl – Ham & Pasta Casserole
-tags: [german, pork, pasta]
+tags: [german, casserole, pork, pasta]
 ---
 
 # Schinkenfleckerl – Ham & Pasta Casserole
