@@ -4,7 +4,7 @@ description: Beef Patties
 tags: [jamaican, beef, in-my-kitchen]
 ---
 
-# Jamaican Beef Patties
+# Beef Patties
 Makes: 10 patties
 
 ## Ingredients
