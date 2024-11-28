@@ -32,7 +32,7 @@ I also tried a few variations because I always have to mess with things: I tried
 
 227 grams (1/2 lb) carrots – julienned  
 227 grams (1/2 lb) daikon radish, cut to match the carrots  
-1 litre 94 cups) water, warm enough to dissolve the salt and sugar  
+1 litre (4 cups) water, warm enough to dissolve the salt and sugar  
 45 ml (3 tablespoons) sugar  
 30 ml (2 tablespoons) salt  
 120 ml – 180 ml (1/2 cup to 3/4 cup) white or rice vinegar (Start with 1/2 cup and add more if desired!)
