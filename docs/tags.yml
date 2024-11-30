@@ -153,6 +153,11 @@ jamaican:
   permalink: /jamaican
   description: Jamaican recipes
 
+japanese:
+  label: Japanese
+  permalink: /japanese
+  description: Japanese recipes
+
 lamb:
   label: Lamb
   permalink: /lamb
