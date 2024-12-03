@@ -1,0 +1,9 @@
+{
+    "label": "Drinks",
+    "position": 2,
+    "link": {
+      "type": "generated-index",
+      "description": "Drinks recipes"
+    }
+  }
+  
