@@ -33,6 +33,11 @@ cake:
   permalink: /cake
   description: Cake recipes 🍰
 
+ canadian:
+  label: Canadian
+  permalink: /canadian
+  description: Canadian recipes 🍁 
+
 casserole:
   label: Casserole
   permalink: /casserole
