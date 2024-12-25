@@ -1,7 +1,7 @@
 ---
 title: Slow Cooker Goulash
 description: Slow Cooker Hungarian Goulash
-tags: [beef, hungarian, in-my-kitchen, pork, slow-cooker, stew]
+tags: [beef, hungarian, in-my-kitchen, pork, slow-cooker, soup-stew]
 ---
 
 # Slow Cooker Hungarian Goulash

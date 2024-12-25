@@ -1,7 +1,7 @@
 ---
 title: Lablabi - Chickpea Soup
 description: Lablabi - Chickpea Soup
-tags: [tunisian, slow-cooker, in-my-kitchen, soup, stew, vegetarian]
+tags: [tunisian, slow-cooker, in-my-kitchen, soup-stew, vegetarian]
 ---
 
 # Lablabi - Chickpea Soup

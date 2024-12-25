@@ -298,11 +298,6 @@ slow-cooker:
   permalink: /slow-cooker
   description: Slow Cooker recipes 🍲
 
-soup:
-  label: Soup
-  permalink: /soup
-  description: Soup recipes 🍜
-
 sourdough:
   label: Sourdough
   permalink: /sourdough
@@ -313,10 +308,10 @@ south-african:
   permalink: /south-african
   description: South African recipes
   
-stew:
-  label: Stew
-  permalink: /stew
-  description: Stew recipes 🍲
+soup-stew:
+  label: Soups / Stews
+  permalink: /soup-stew
+  description: Soup 🍜 and Stew recipes 🍲
 
 swedish:
   label: Swedish

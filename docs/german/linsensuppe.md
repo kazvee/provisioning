@@ -1,7 +1,7 @@
 ---
 title: Linsensuppe mit Würstchen - Lentil Stew with Sausage
 description: Linsensuppe mit Würstchen - Slow Cooker Lentil Stew with Sausage
-tags: [german, in-my-kitchen, soup, photos, stew, slow-cooker]
+tags: [german, in-my-kitchen, soup-stew, photos, slow-cooker]
 ---
 
 # Linsensuppe mit Würstchen - Slow Cooker Lentil Stew with Sausage

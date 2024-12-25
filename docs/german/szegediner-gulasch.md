@@ -1,7 +1,7 @@
 ---
 title: Szegediner Gulasch – Goulash with Shredded Cabbage
 description: Szegediner Gulasch – Goulash with Shredded Cabbage
-tags: [german, pork, stew]
+tags: [german, pork, soup-stew]
 ---
 
 # Szegediner Gulasch – Goulash with Shredded Cabbage

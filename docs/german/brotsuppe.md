@@ -1,7 +1,7 @@
 ---
 title: Brotsuppe – Bread Soup
 description: Brotsuppe – Bread Soup
-tags: [german, soup]
+tags: [german, soup-stew]
 ---
 
 # Brotsuppe – Bread Soup

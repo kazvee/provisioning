@@ -1,7 +1,7 @@
 ---
 title: Berbere Beef Stew
 description: Berbere Beef Stew Recipe
-tags: [beef, ethiopian, in-my-kitchen, photos]
+tags: [beef, ethiopian, in-my-kitchen, photos, soup-stew]
 ---
 
 # Berbere Beef Stew

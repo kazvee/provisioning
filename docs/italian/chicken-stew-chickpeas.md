@@ -1,7 +1,7 @@
 ---
 title: Chicken Stew with Chickpeas
 description: Chicken Stew with Chickpeas
-tags: [italian, photos, stew, pasta, in-my-kitchen, chicken]
+tags: [italian, photos, soup-stew, pasta, in-my-kitchen, chicken]
 ---
 
 # Italian Style Chicken Stew with Chickpeas

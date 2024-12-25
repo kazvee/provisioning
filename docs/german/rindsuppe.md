@@ -1,7 +1,7 @@
 ---
 title: Rindsuppe – Beef Broth
 description: Rindsuppe – Beef Broth
-tags: [german, beef, soup]
+tags: [german, beef, soup-stew]
 ---
 
 # Rindsuppe – Beef Broth

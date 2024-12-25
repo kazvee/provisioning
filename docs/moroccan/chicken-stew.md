@@ -1,7 +1,7 @@
 ---
 title: Moroccan Chicken Stew
 description: Moroccan Chicken Stew
-tags: [moroccan, chicken, stew, photos, slow-cooker, in-my-kitchen]
+tags: [moroccan, chicken, soup-stew, photos, slow-cooker, in-my-kitchen]
 ---
 
 # Slow Cooker Moroccan Chicken Stew

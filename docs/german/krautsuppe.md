@@ -1,7 +1,7 @@
 ---
 title: Krautsuppe – Cabbage Soup
 description: Krautsuppe – Cabbage Soup
-tags: [german, soup, vegetarian]
+tags: [german, soup-stew, vegetarian]
 ---
 
 # Krautsuppe – Cabbage Soup

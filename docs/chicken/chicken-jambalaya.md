@@ -1,7 +1,7 @@
 ---
 title: Chicken Jambalaya
 description: Chicken Jambalaya
-tags: [chicken, stew]
+tags: [chicken, soup-stew]
 ---
 
 # Chicken Jambalaya

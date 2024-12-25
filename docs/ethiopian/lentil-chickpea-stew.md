@@ -1,7 +1,7 @@
 ---
 title: Lentil and Chickpea Stew
 description: Slow Cooker Recipe
-tags: [ethiopian, in-my-kitchen, slow-cooker, stew, vegan, vegetarian]
+tags: [ethiopian, in-my-kitchen, slow-cooker, soup-stew, vegan, vegetarian]
 ---
 
 # Lentil and Chickpea Stew

@@ -1,9 +1,9 @@
 {
-    "label": "Stew",
+    "label": "Soup / Stew recipes",
     "position": 2,
     "link": {
       "type": "generated-index",
-      "description": "Stew recipes"
+      "description": "Soup / Stew recipes"
     }
   }
   

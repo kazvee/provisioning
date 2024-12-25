@@ -1,7 +1,7 @@
 ---
 title: Ärtsoppa - Pea Soup
 description: Ärtsoppa - Slow Cooker Yellow Pea Soup
-tags: [swedish, soup, photos, slow-cooker, in-my-kitchen]
+tags: [swedish, soup-stew, photos, slow-cooker, in-my-kitchen]
 ---
 
 # Ärtsoppa - Slow Cooker Yellow Pea Soup

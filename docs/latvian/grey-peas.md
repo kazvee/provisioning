@@ -1,7 +1,7 @@
 ---
 title: Latvian Grey Peas with Onions and Bacon
 description: Latvian Grey Peas with Onions and Bacon - Pelēkie zirņi ar sīpoliem un speķi
-tags: [beef, in-my-kitchen, libyan, stew, slow-cooker]
+tags: [beef, in-my-kitchen, libyan, soup-stew, slow-cooker]
 ---
 
 # Latvian Grey Peas with Onions and Bacon - Pelēkie zirņi ar sīpoliem un speķi
