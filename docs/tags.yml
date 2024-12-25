@@ -13,6 +13,11 @@ beef:
   permalink: /beef
   description: Beef recipes 🥩
 
+biscuits:
+  label: Biscuits
+  permalink: /biscuits
+  description: Biscuit recipes
+
 bread:
   label: Bread
   permalink: /bread
