@@ -6,6 +6,8 @@ tags: [chicken, in-my-kitchen, slow-cooker]
 
 # Slow Cooker Chicken Stroganoff
 
+🍲 Slow Cooker Recipe
+
 ## Ingredients
 4 chicken breasts, cubed  
 8 ounces mushrooms, sliced  

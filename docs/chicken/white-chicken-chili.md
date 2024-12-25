@@ -6,6 +6,8 @@ tags: [chicken, in-my-kitchen, slow-cooker, soup-stew, photos]
 
 # Slow Cooker White Chicken Chili
 
+🍲 Slow Cooker Recipe
+
 ## Ingredients
 1 kg (2.2 lbs) skinless, boneless chicken breast halves  
 2 cans (295 g / 10.5 oz) condensed cream of chicken soup  

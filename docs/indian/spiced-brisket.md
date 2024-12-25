@@ -6,6 +6,8 @@ tags: [indian, in-my-kitchen, beef, slow-cooker]
 
 # Slow Cooked Spiced Brisket
 
+🍲 Slow Cooker Recipe
+
 ## Ingredients
 1 kg beef brisket  
 2 tablespoons vegetable oil  

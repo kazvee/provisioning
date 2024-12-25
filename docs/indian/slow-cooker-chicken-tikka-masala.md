@@ -7,6 +7,8 @@ tags: [indian, in-my-kitchen, curry, chicken, photos, slow-cooker]
 # Slow Cooker Chicken Tikka Masala
 Makes: 6 servings  
 
+🍲 Slow Cooker Recipe
+
 *This is a combination of a few different recipes I’ve used before, adapted for a ‘throw everything in the slowcooker and walk away for 4 hours’ type of meal. You could brown the onion, garlic, and chicken beforehand if you want.*
 
 ## Ingredients

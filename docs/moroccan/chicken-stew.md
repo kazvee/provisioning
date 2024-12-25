@@ -7,6 +7,8 @@ tags: [moroccan, chicken, soup-stew, photos, slow-cooker, in-my-kitchen]
 # Slow Cooker Moroccan Chicken Stew
 Serves: 6
 
+🍲 Slow Cooker Recipe
+
 ## Ingredients
 4 carrots, chopped  
 2 large onions, chopped  

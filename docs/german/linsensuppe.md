@@ -6,6 +6,8 @@ tags: [german, in-my-kitchen, soup-stew, photos, slow-cooker]
 
 # Linsensuppe mit Würstchen - Slow Cooker Lentil Stew with Sausage
 
+🍲 Slow Cooker Recipe
+
 ## Ingredients
 500 grams dried brown lentils  
 2 litres chicken stock or broth  

@@ -7,6 +7,8 @@ tags: [tunisian, slow-cooker, in-my-kitchen, soup-stew, vegetarian]
 # Lablabi - Chickpea Soup
 *I made this in my slow cooker based on a few recipes I found!*
 
+🍲 Slow Cooker Recipe
+
 ## Ingredients
 1.5 cups dry chickpeas, soaked overnight and drained  
 1 tablespoon olive oil (plus more for frying)  

@@ -1,11 +1,10 @@
 ---
 title: Chicken Korma
 description: Chicken Korma
-tags: [indian, curry, chicken,]
+tags: [indian, curry, chicken, slow-cooker]
 ---
 
 # Chicken Korma
-This one isn’t a slow cooker one but it’s easily adaptable if we like the result.
 
 ## Ingredients
 4 chicken breast fillets (about 600g)  
@@ -28,3 +27,6 @@ Chop the chicken breast into 2.5 cm (approx) chunks and season generously with f
 Stir in the ginger garlic paste and the ground spices and stir for another minute or two.  
 Add in the mango chutney and chicken stock and simmer, stirring regularly, for about 5 minutes or so, until the liquid has reduced by about half. (If you want an extra smooth sauce, let it cool to a safe temperature to use a blender on.)  
 Add the chicken into the sauce, add the cream in and simmer gently, stirring occasionally, for another 5 minute or so until the chicken is piping hot and cooked throughout. Add a splash of water if you feel the sauce is too thick. Garnish with toasted almond flakes and fresh coriander, and serve with freshly cooked basmati rice or naan.
+
+## My Notes
+This one isn’t a slow cooker recipe (yet!), but it’s easily adaptable if we like the result.

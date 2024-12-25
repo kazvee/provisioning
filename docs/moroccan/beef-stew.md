@@ -7,6 +7,8 @@ tags: [moroccan, beef, soup-stew, photos, slow-cooker, in-my-kitchen]
 # Slow Cooker Moroccan Beef Stew
 *Make in the Slow Cooker, stove top, or in the oven*
 
+🍲 Slow Cooker Recipe
+
 ## Ingredients
 900 g (2 lbs) beef cubes (lean boneless shin, chuck steak) about 1 inch thick  
 30 ml (2 tablespoons) plain flour  

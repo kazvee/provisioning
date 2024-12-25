@@ -5,7 +5,9 @@ tags: [chicken, in-my-kitchen, slow-cooker]
 ---
 
 # Slow Cooker Mississippi Chicken
-*(An alternative to the Mississippi Beef Pot Roast Recipe!)*
+*(An alternative to the [Mississippi Beef Pot Roast](/docs/beef/mississippi-pot-roast.md) Recipe!)*
+
+🍲 Slow Cooker Recipe
 
 ## Ingredients
 1 x 5.5 lb whole chicken  

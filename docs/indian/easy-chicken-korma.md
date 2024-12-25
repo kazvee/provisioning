@@ -7,6 +7,8 @@ tags: [indian, in-my-kitchen, curry, chicken, slow-cooker]
 # Easy Slow Cooker Chicken Korma
 I wanted a ‘throw it all in and walk away’ curry meal, and this fit the bill nicely!
 
+🍲 Slow Cooker Recipe
+
 ## Ingredients for the Curry
 1 kg (35 oz) chicken breasts or thighs, cubed  
 2 tablespoons ground almonds  

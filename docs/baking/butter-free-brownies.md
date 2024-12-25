@@ -27,11 +27,11 @@ Add the flour mixture to the wet mixture, blend on Low until fully combined.
 Then, pour in the second half of the cocoa mixture, and blend on Medium High for about 1 minute, until the batter is shiny and well-blended.  
 Pour batter into your prepared baking pan. Bake for 20-25 minutes (or up to 30 if you prefer a firmer brownie with crisp edges).
 
-## My Notes:
+## My Notes
 I needed brownies 🙂 but didn’t have butter or margarine in the house so decided to try a new recipe!  
 I mixed this all by hand and it turned out great. Next time I’ll use my handmixer to see what a difference it’d make. I used 2 x round silicone baking mold pans (I think they’re about 10″ round x 2 1/4″ deep), and this took 30 minutes in my oven (I prefer a crispy outside edge). We sliced each baking mold into 12 triangular pieces.
 
-## More Recent Notes:
+## More Recent Notes
 I ran out of brown sugar and only used about 1/3 cup, if even. Also I cut the white sugar down to only 1 cup. They still tasted great and not overly sweet. I used my hand mixer to make the batter this time and it helped to blend everything but I wouldn’t say it’s essential. I added 1/8 teaspoon of Kashmiri chili powder to give it a subtle kick of heat.
 
 <img src="/img/recipe-photos/20200503-Butter-Free-Brownies.jpg" alt="Two round silicone baking moulds with Butter-Free Brownies" style={{width: "500px", height: "auto"}} />

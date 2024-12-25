@@ -6,6 +6,8 @@ tags: [chicken, hungarian, in-my-kitchen, slow-cooker]
 
 # Slow Cooker Chicken Paprikash
 
+🍲 Slow Cooker Recipe
+
 Serves: 6 – 8  
 Prep Time: 30 minutes  
 Cooking time: 4 – 8 hours in slow cooker  

@@ -7,6 +7,8 @@ tags: [german, in-my-kitchen, pork, slow-cooker]
 # Zerzupftes Schweinefleisch - Slow Cooker Pulled Pork
 Serves: 6 – 8
 
+🍲 Slow Cooker Recipe
+
 ## Ingredients
 2 kg (about 4.5 lbs) pork (shoulder/butt/etc.)  
 1 onion, diced  

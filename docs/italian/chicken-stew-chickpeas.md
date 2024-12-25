@@ -6,6 +6,8 @@ tags: [italian, photos, soup-stew, pasta, in-my-kitchen, chicken]
 
 # Italian Style Chicken Stew with Chickpeas
 
+🍲 Slow Cooker Recipe
+
 ## Ingredients
 500g chicken (I used boneless thigh chunks)  
 1 x 400 ml can of chopped tomatoes (and their liquid)  

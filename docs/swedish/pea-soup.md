@@ -6,6 +6,8 @@ tags: [swedish, soup-stew, photos, slow-cooker, in-my-kitchen]
 
 # Ärtsoppa - Slow Cooker Yellow Pea Soup
 
+🍲 Slow Cooker Recipe
+
 ## Ingredients 
 500 grams dried yellow peas  
 500 grams salted pork loin  
