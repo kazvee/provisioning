@@ -1,7 +1,7 @@
 ---
 title: Sourdough Crumpets
 description: Sourdough Crumpets
-tags: [bread, in-my-kitchen, sourdough]
+tags: [baking, in-my-kitchen, sourdough]
 ---
 
 # Sourdough Crumpets
