@@ -1,7 +1,7 @@
 ---
 title: Kartoffelsuppe – Potato Soup
 description: Kartoffelsuppe – Potato Soup
-tags: [german, soup, potato, vegetarian]
+tags: [german, soup-stew, potato, vegetarian]
 ---
 
 # Kartoffelsuppe – Potato Soup

@@ -1,7 +1,7 @@
 ---
 title: Spicy Butter Bean and Tomato Stew with Garlic Sausage
 description: Spicy Butter Bean and Tomato Stew with Garlic Sausage
-tags: [turkish, stew, in-my-kitchen]
+tags: [turkish, soup-stew, in-my-kitchen]
 ---
 
 # Sucuklu Kuru Fasulye – Spicy Butter Bean and Tomato Stew with Turkish Sujuk (Garlic Sausage) – Turkish Cassoulet

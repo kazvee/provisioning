@@ -6,6 +6,8 @@ tags: [iraqi, chicken, in-my-kitchen, slow-cooker]
 
 # Iraqi Slow Cooked Chicken
 
+🍲 Slow Cooker Recipe
+
 ## Ingredients
 1 large onion, diced  
 1.5 lbs (7 – 8 drumsticks) chicken drumsticks  

@@ -1,7 +1,7 @@
 ---
 title: Grießnockerlsuppe – Semolina Dumpling Soup
 description: Grießnockerlsuppe – Semolina Dumpling Soup
-tags: [german, soup]
+tags: [german, soup-stew]
 ---
 
 # Grießnockerlsuppe – Semolina Dumpling Soup

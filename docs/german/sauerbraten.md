@@ -6,6 +6,8 @@ tags: [german, beef, in-my-kitchen, slow-cooker]
 
 # Slow Cooker Sauerbraten – German Pot Roast
 
+🍲 Slow Cooker Recipe
+
 ## Ingredients for the marinade and beef:
 1 (3- to-4 pound) beef chuck roast or bottom round roast  
 2 cups water  

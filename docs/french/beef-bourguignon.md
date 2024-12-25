@@ -1,7 +1,7 @@
 ---
 title: Beef Bourguignon
 description: Beef Bourguignon
-tags: [beef, french, slow-cooker, stew, in-my-kitchen]
+tags: [beef, french, slow-cooker, soup-stew, in-my-kitchen]
 ---
 
 # Beef Bourguignon

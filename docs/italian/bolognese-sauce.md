@@ -7,6 +7,8 @@ tags: [italian, photos, vegetarian, pasta, in-my-kitchen]
 # Slow Cooker Bolognese Sauce
 *(We’ve made a vegetarian version of this, but I’ve kept the full recipe for easy sharing.)*
 
+🍲 Slow Cooker Recipe
+
 ## Ingredients
 400 g (14oz) lean minced beef  
 75 g (3oz) pancetta or smoked bacon lardons, chopped  

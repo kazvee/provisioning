@@ -1,10 +1,12 @@
 ---
 title: White Chicken Chili
 description: Slow Cooker White Chicken Chili
-tags: [chicken, in-my-kitchen, slow-cooker, photos]
+tags: [chicken, in-my-kitchen, slow-cooker, soup-stew, photos]
 ---
 
 # Slow Cooker White Chicken Chili
+
+🍲 Slow Cooker Recipe
 
 ## Ingredients
 1 kg (2.2 lbs) skinless, boneless chicken breast halves  

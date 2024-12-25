@@ -1,7 +1,7 @@
 ---
 title: Lamb Ras el Hanout
 description: Lamb Ras el Hanout
-tags: [moroccan, stew, lamb, slow-cooker, in-my-kitchen]
+tags: [moroccan, soup-stew, lamb, slow-cooker, in-my-kitchen]
 ---
 
 # Slow Cooker Lamb Ras el Hanout

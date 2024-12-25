@@ -1,7 +1,7 @@
 ---
 title: Gulaschsuppe 2
 description: Gulaschsuppe – Goulash Soup
-tags: [german, beef, soup]
+tags: [german, beef, soup-stew]
 ---
 
 # Gulaschsuppe – Goulash Soup 2

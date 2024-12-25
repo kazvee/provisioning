@@ -1,7 +1,7 @@
 ---
 title: Żurek – Polish Rye Soup
 description: Żurek – Polish Rye Soup
-tags: [polish, soup, photos, in-my-kitchen]
+tags: [polish, soup-stew, photos, in-my-kitchen]
 ---
 
 # Żurek – Polish Rye Soup

@@ -1,7 +1,7 @@
 ---
 title: Khoresh Rivas - Rhubarb Stew with Meat
 description: Khoresh Rivas - Rhubarb Stew with Meat
-tags: [persian, beef, chicken, lamb, stew, photos, in-my-kitchen]
+tags: [persian, beef, chicken, lamb, soup-stew, photos, in-my-kitchen]
 ---
 
 # Khoresh Rivas - Rhubarb Stew with Meat

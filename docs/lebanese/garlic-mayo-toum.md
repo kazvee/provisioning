@@ -11,7 +11,7 @@ Tastes great served alongside [Shish Taouk](shish-taouk.md) and rice!
 1 garlic bulb, crushed  
 1/2-2/3 cup vegetable oil (not olive oil)  
 3 tablespoons mayonnaise  
-juice of 1/2 lemon (My Notes: I use 1 tablespoon from the bottle)  
+juice of 1/2 lemon (**My Notes:** I use 1 tablespoon from the bottle)  
 salt and pepper, to taste
 
 ## Directions

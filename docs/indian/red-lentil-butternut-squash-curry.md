@@ -6,6 +6,8 @@ tags: [indian, in-my-kitchen, curry, slow-cooker]
 
 # Slow Cooker Red Lentil & Butternut Squash Curry
 
+🍲 Slow Cooker Recipe
+
 ## Ingredients
 1 tablespoon olive oil  
 2 small yellow onions, diced  

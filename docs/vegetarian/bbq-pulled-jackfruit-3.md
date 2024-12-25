@@ -6,6 +6,8 @@ tags: [vegetarian, in-my-kitchen]
 
 # Slow Cooker BBQ Pulled Jackfruit
 
+🍲 Slow Cooker Recipe
+
 ## Ingredients
 1.5 cups vegetable stock  
 6 ounces (usually 1 can) tomato paste  

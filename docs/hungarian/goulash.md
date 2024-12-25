@@ -1,12 +1,13 @@
 ---
 title: Slow Cooker Goulash
 description: Slow Cooker Hungarian Goulash
-tags: [beef, hungarian, in-my-kitchen, pork, slow-cooker, stew]
+tags: [beef, hungarian, in-my-kitchen, pork, slow-cooker, soup-stew]
 ---
 
 # Slow Cooker Hungarian Goulash
+*I’ve consolidated a few recipes into this one.*
 
-I’ve consolidated a few recipes into this one to use in my slow cooker.
+🍲 Slow Cooker Recipe
 
 ## Ingredients
 1 kg onions, chopped  

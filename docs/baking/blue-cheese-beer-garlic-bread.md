@@ -1,7 +1,7 @@
 ---
 title: Blue Cheese & Beer Garlic Bread
 description: Blue Cheese & Beer Garlic Bread
-tags: [bread, in-my-kitchen, photos]
+tags: [baking, bread, in-my-kitchen, photos]
 ---
 
 # Blue Cheese & Beer Garlic Bread

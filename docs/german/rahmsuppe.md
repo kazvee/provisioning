@@ -1,7 +1,7 @@
 ---
 title: Rahmsuppe – Sour Cream Soup
 description: Rahmsuppe – Sour Cream Soup
-tags: [german, soup]
+tags: [german, soup-stew]
 ---
 
 # Rahmsuppe – Sour Cream Soup

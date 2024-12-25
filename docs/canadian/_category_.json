@@ -1,9 +1,9 @@
 {
-    "label": "Bread",
+    "label": "Canadian",
     "position": 2,
     "link": {
       "type": "generated-index",
-      "description": "🍞 Bread recipes"
+      "description": "Canadian recipes"
     }
   }
   

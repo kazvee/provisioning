@@ -6,6 +6,8 @@ tags: [pork, in-my-kitchen, slow-cooker]
 
 # Slow Cooker Pork Chops
 
+🍲 Slow Cooker Recipe
+
 ## Ingredients
 4 pork chops, ideally thick cuts  
 1 tablespoon olive oil, to fry the meat  

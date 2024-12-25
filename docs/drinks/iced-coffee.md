@@ -20,5 +20,5 @@ In a pitcher, combine cooled coffee, milk and half-and-half. Stir in sugar, vani
 ## My Notes
 For a 2 litre jug, I just use 6 cups coffee, 1/3 cup sugar, 1 tsp vanilla extract, and fill the rest of the pitcher with milk. 🙂
 
-## More Recent Notes:
+## More Recent Notes
 Here's a scaled-down recipe to fit our smaller (1.4 litre) drinks containers now: 946ml brewed coffee, 386ml milk, 44 grams sugar.

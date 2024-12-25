@@ -1,7 +1,7 @@
 ---
 title: Knoblauchcremesuppe – Creamy Garlic Soup 2
 description: Knoblauchcremesuppe – Creamy Garlic Soup 2
-tags: [german, soup, in-my-kitchen]
+tags: [german, soup-stew, in-my-kitchen]
 ---
 
 # Knoblauchcremesuppe – Creamy Garlic Soup 2

@@ -6,6 +6,8 @@ tags: [thai, in-my-kitchen, pork, curry, slow-cooker, photos]
 
 # Slow Cooker Panang Pork Curry
 
+🍲 Slow Cooker Recipe
+
 ## Ingredients
 1 kg boneless pork (I used pork sirloin chops)  
 1 onion, chopped  
