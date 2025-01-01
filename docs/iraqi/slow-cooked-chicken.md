@@ -4,7 +4,7 @@ description: Slow Cooked Chicken
 tags: [iraqi, chicken, in-my-kitchen, slow-cooker]
 ---
 
-# Iraqi Slow Cooked Chicken
+# Slow Cooked Chicken
 
 🍲 Slow Cooker Recipe
 
