@@ -29,7 +29,7 @@ Add in the tomato paste and cream, stir well, and cover to simmer until the chic
 ## Note
 Another spice combination to try: omit the cinnamon and ginger, and instead use 1 teaspoon nutmeg and 1 teaspoon cumin.
 
-## My Notes:
+## My Notes
 This is one of our favourite meals! 😍  
 When I first started making it, it seemed like it was missing something, so I usually add a few red chillies (fried with the onions).  
 On a more recent version I used a can (400 ml / 14 oz) of coconut milk instead of the cream, and I added 2 – 3 tablespoons of dried fenugreek leaves.

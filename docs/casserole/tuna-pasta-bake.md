@@ -1,6 +1,6 @@
 ---
-title: Creamy Chicken & Mushroom Bake
-description: Creamy Chicken & Mushroom Bake
+title: Tuna Pasta Bake
+description: No-Boil Tuna Pasta Bake
 tags: [casserole, pasta, in-my-kitchen, photos]
 ---
 
