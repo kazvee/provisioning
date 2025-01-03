@@ -1,6 +1,6 @@
 ---
 title: Käsespätzle
-description: Käsespätzle
+description: Käsespätzle - Noodle Dumplings With Cheese
 tags: [german, in-my-kitchen, dumplings]
 ---
 

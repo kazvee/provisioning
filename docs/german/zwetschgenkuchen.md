@@ -24,5 +24,5 @@ One by one put the plum halves onto the dough with the skin side down, leaving o
 
 After baking, when almost cooled down sprinkle with icing sugar, and serve it with a dollop of whipped cream on the side!
 
-## My Notes:
+## My Notes
 My Oma used to make this with blueberries instead.

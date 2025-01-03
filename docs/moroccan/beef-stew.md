@@ -1,10 +1,10 @@
 ---
-title: Moroccan Beef Stew
-description: Moroccan Beef Stew
+title: Beef Stew
+description: Beef Stew
 tags: [moroccan, beef, soup-stew, photos, slow-cooker, in-my-kitchen]
 ---
 
-# Slow Cooker Moroccan Beef Stew
+# Slow Cooker Beef Stew
 *Make in the Slow Cooker, stove top, or in the oven*
 
 🍲 Slow Cooker Recipe

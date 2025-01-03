@@ -13,6 +13,11 @@ beef:
   permalink: /beef
   description: Beef recipes 🥩
 
+belgian:
+  label: Belgian
+  permalink: /belgian
+  description: Belgian recipes
+
 biscuits:
   label: Biscuits
   permalink: /biscuits
@@ -88,6 +93,11 @@ danish:
   permalink: /danish
   description: Danish recipes
 
+desserts:
+  label: Desserts
+  permalink: /desserts
+  description: Dessert recipes
+
 drinks:
   label: Drinks
   permalink: /drinks
@@ -97,6 +107,11 @@ dumplings:
   label: Dumplings
   permalink: /dumplings
   description: Dumpling recipes 🥟
+
+dutch:
+  label: Dutch
+  permalink: /dutch
+  description: Dutch recipes
 
 ethiopian:
   label: Ethiopian
@@ -322,6 +337,11 @@ swedish:
   label: Swedish
   permalink: /swedish
   description: Swedish recipes
+
+swiss:
+  label: Swiss
+  permalink: /swiss
+  description: Swiss recipes
 
 thai:
   label: Thai
