@@ -1,7 +1,7 @@
 ---
 title: Tourtière – Meat Pie
 description: Tourtière – Meat Pie
-tags: [beef, pork]
+tags: [canadian, beef, pork]
 ---
 
 # Tourtière – Meat Pie
