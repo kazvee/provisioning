@@ -1,7 +1,7 @@
 ---
 title: Rotkohl – Red Cabbage
 description: Rotkohl – Red Cabbage
-tags: [german]
+tags: [german, side-dishes, vegetarian]
 ---
 
 # Rotkohl – Red Cabbage
