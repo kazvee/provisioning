@@ -12,7 +12,7 @@ tags: [german, beef]
 1 whole egg  
 1/4 cup oil  
 1 tablespoon white wine vinegar  
-1 cup lukewarm water*  
+1 cup lukewarm water (**Note:** Only prepare 1 cup water, do not use all of it first, but only if needed.)  
 Salt  
 Flour, to work with
 
@@ -27,7 +27,6 @@ salt
 pepper
 
 ## Directions for the dough
-*Only prepare 1 cup water, do not use all of it first, but only if needed.  
 Mix flour, egg, oil, vinegar, water and salt, and knead for at least 5 minutes until the dough is smooth, and not too soft. Place the dough on an oiled plate and coat with a little oil. Cover with foil or a plate and put in a warm place (100F / 38C) to rest for at least 30 minutes.
 
 ## Directions for the filling

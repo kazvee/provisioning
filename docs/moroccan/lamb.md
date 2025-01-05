@@ -1,10 +1,12 @@
 ---
 title: Lamb Ras el Hanout
-description: Lamb Ras el Hanout
+description: Slow Cooker Lamb Ras el Hanout
 tags: [moroccan, soup-stew, lamb, slow-cooker, in-my-kitchen]
 ---
 
 # Slow Cooker Lamb Ras el Hanout
+
+🍲 Slow Cooker Recipe
 
 ## Ingredients
 1 kg lamb shoulder (or other braising cut)  

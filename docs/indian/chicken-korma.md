@@ -1,7 +1,7 @@
 ---
 title: Chicken Korma
 description: Chicken Korma
-tags: [indian, curry, chicken, slow-cooker]
+tags: [indian, curry, chicken]
 ---
 
 # Chicken Korma

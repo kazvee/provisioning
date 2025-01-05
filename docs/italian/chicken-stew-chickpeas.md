@@ -4,7 +4,7 @@ description: Chicken Stew with Chickpeas
 tags: [italian, photos, soup-stew, pasta, in-my-kitchen, chicken]
 ---
 
-# Italian Style Chicken Stew with Chickpeas
+# Chicken Stew with Chickpeas
 
 🍲 Slow Cooker Recipe
 
