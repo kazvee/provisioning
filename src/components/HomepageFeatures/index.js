@@ -13,11 +13,11 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Blog',
+    title: 'Photos',
     // Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Blog.
+        Photos of how the recipes turned out.
       </>
     ),
   },
