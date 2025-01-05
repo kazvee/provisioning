@@ -97,9 +97,9 @@ const config = {
             label: 'Browse Recipes by Tag',
             position: 'left',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          // {to: '/blog', label: 'Blog', position: 'left'},
           // {
-          //   href: 'https://github.com/kazvee',
+          //   href: 'https://github.com/kazvee/provisioning#readme',
           //   label: 'GitHub',
           //   position: 'right',
           // },
@@ -112,8 +112,17 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'About',
+                label: 'About this site',
                 to: '/docs/intro',
+              },
+            ],
+          },
+          {
+            title: 'Browse Recipes',
+            items: [
+              {
+                label: 'Browse Recipes by Tag',
+                href: '/docs/tags',
               },
             ],
           },
@@ -121,29 +130,21 @@ const config = {
             title: 'Credits',
             items: [
               {
-                html: '<a href="https://icons8.com/icon/NJtCLdKaUFe3/recipe" target="_blank" rel="noopener noreferrer">Recipe</a> icon by <a href="https://icons8.com" target="_blank" rel="noopener noreferrer">Icons8</a>',
-              },
-            ],
-          },
-          {
-            title: 'Favorite Links',
-            items: [
-              {
-                label: 'NYT Cooking',
-                href: 'https://cooking.nytimes.com/',
+                label: 'Icons by Icons8',
+                href: 'https://icons8.com/',
               },
             ],
           },
           {
             title: 'More',
             items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
+              // {
+              //   label: 'Blog',
+              //   to: '/blog',
+              // },
               {
                 label: 'GitHub',
-                href: 'https://github.com/kazvee/',
+                href: 'https://github.com/kazvee/provisioning#readme',
               },
             ],
           },
