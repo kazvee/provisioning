@@ -4,8 +4,21 @@
  * work well for content-centric websites.
  */
 
-/* You can override the default Infima variables here. */
+/* Light Mode */
 :root {
+  --ifm-color-primary: #9b4d7f;
+  --ifm-color-primary-dark: #7d3d64;
+  --ifm-color-primary-darker: #67385f;
+  --ifm-color-primary-darkest: #522c4e;
+  --ifm-color-primary-light: #b67691;
+  --ifm-color-primary-lighter: #c789a3;
+  --ifm-color-primary-lightest: #d0a6b9;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+/* Light Mode - Initial Infima Values */
+/* :root {
   --ifm-color-primary: #2e8555;
   --ifm-color-primary-dark: #29784c;
   --ifm-color-primary-darker: #277148;
@@ -15,10 +28,23 @@
   --ifm-color-primary-lightest: #3cad6e;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
-}
+} */
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
+/* Dark Mode */
 [data-theme='dark'] {
+  --ifm-color-primary: #d58cb0;
+  --ifm-color-primary-dark: #b57996;
+  --ifm-color-primary-darker: #9f5c84;
+  --ifm-color-primary-darkest: #8a4a6f;
+  --ifm-color-primary-light: #e4a4c3;
+  --ifm-color-primary-lighter: #f0b9d2;
+  --ifm-color-primary-lightest: #f6d3e1;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+/* Dark Mode - Initial Infima Values */
+/* [data-theme='dark'] {
   --ifm-color-primary: #25c2a0;
   --ifm-color-primary-dark: #21af90;
   --ifm-color-primary-darker: #1fa588;
@@ -27,7 +53,7 @@
   --ifm-color-primary-lighter: #32d8b4;
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
-}
+} */
 
 .pagination-nav__link .pagination-nav__label {
   display: flex;
