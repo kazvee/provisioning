@@ -8,11 +8,20 @@ Provisioning is an online recipe collection built to enable easy lookup and shar
 
 A demo can be viewed ✨[HERE](https://provisioning.kazvee.com/)✨
 
+### Screenshots
+
+![Main View - Light Mode](/static/img/readme/Main_View_Light.png)
+
+![Main View - Dark Mode](/static/img/readme/Main_View_Dark.png)
+
 ### Features
 * Built with [Docusaurus](https://docusaurus.io/) for modern, customizable content navigation
 * Lunr search integration for fast and responsive recipe lookups
 * Light / Dark mode to suit every user's screen preference
-* Clean and intuitive UI design for easy navigation
+* Clean and intuitive UI design for seamless navigation
+* Real recipe photos showcasing delicious results
+* Mobile-responsive site for optimal viewing across all devices
+* Dynamic image carousel on the landing page for a visually engaging user experience
 
 ## Installation
 
