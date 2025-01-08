@@ -73,11 +73,6 @@ copycat:
   permalink: /copycat
   description: Copycat recipes 😺
 
-crafts:
-  label: Crafts
-  permalink: /crafts
-  description: Not recipes, but a list of some of the craft projects I've made! 🧶
-
 cuban:
   label: Cuban
   permalink: /cuban
