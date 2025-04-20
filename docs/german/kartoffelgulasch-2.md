@@ -1,5 +1,5 @@
 ---
-title: Kartoffelgulasch – Potato Goulash
+title: Kartoffelgulasch – Potato Goulash 2
 description: Kartoffelgulasch – Potato Goulash
 tags: [german, potato, soup-stew]
 ---
