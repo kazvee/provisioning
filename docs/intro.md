@@ -16,12 +16,13 @@ I try to remember to snap a quick photo of how a recipe turned out. 📷
 
 ## How to Use this Site
 
-Feel free to browse the recipe categories using the left side menu, or [browse by tag](/docs/tags) using the top navigation bar. 📚
+Use the left menu to explore recipe categories, or [browse by tag](/docs/tags) from the top navigation bar. 📚
 
-The [Blog](/blog/) section will eventually be developed into a series of tasting notes about interesting & unusual food and/or drinks we've tried. 🧃
+The [Blog](/blog/) section will eventually be developed into a series of tasting notes about interesting/unusual food and drinks we've tried. 🧃
 
 ## About Me
 
 * Cinnamon Lover 😍  
 * Nutmeg Hater 😡  
-* Maverick Seasoner 😎
+* Maverick Seasoner 😎 
+* [Software Developer](https://kazvee.com/) 👩‍💻
