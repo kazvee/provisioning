@@ -77,7 +77,6 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      // Replace with your project's social card
       image: 'img/provisioning-social-card.jpg',
       navbar: {
         title: 'Home',
@@ -97,12 +96,6 @@ const config = {
             label: 'Browse Recipes by Tag',
             position: 'left',
           },
-          // {to: '/blog', label: 'Blog', position: 'left'},
-          // {
-          //   href: 'https://github.com/kazvee/provisioning#readme',
-          //   label: 'GitHub',
-          //   position: 'right',
-          // },
         ],
       },
       footer: {
@@ -112,7 +105,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'About this site',
+                label: 'About this Site',
                 to: '/docs/intro',
               },
             ],
@@ -136,21 +129,25 @@ const config = {
             ],
           },
           {
-            title: 'More',
+            title: 'Site Code',
             items: [
-              // {
-              //   label: 'Blog',
-              //   to: '/blog',
-              // },
               {
                 label: 'GitHub',
                 href: 'https://github.com/kazvee/provisioning#readme',
               },
             ],
           },
+          {
+            title: 'Visit Main Site',
+            items: [
+              {
+                label: 'kazvee.com',
+                href: 'https://kazvee.com/',
+              },
+            ],
+          },
         ],
-        // copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
-        copyright: `Made with ❤️`,
+        // copyright: `Copyright © ${new Date().getFullYear()} kazvee.com`,        
       },
       prism: {
         theme: prismThemes.github,
