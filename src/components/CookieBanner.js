@@ -1,32 +1,37 @@
 "use client";
+
 import { useEffect, useState } from "react";
+
+let posthogLoaded = false; // Module-level flag to prevent duplicate initialization
 
 export function cookieConsentGiven() {
   if (typeof window === "undefined") return "undecided";
   return localStorage.getItem("cookie_consent") ?? "undecided";
 }
 
-export default function Banner() {
+export default function CookieBanner() {
   const [consent, setConsent] = useState("undecided");
   const [hovered, setHovered] = useState("");
   const [show, setShow] = useState(false);
 
+  // Check stored consent and trigger pop animation if undecided
   useEffect(() => {
     const stored = cookieConsentGiven();
     setConsent(stored);
     if (stored === "undecided") setTimeout(() => setShow(true), 100);
   }, []);
 
+  // Dynamic PostHog init after consent
   useEffect(() => {
-    if (consent === "yes") {
+    if (consent === "yes" && !posthogLoaded) {
       (async () => {
-        const ph = (await import("posthog-js")).default;
-        if (!ph.__initialized) {
-          ph.init("phc_Sd7Bm5c2eRz4c5ig85fG6heD9AOuoCHxlc9lmhWGoRO", {
-            api_host: "https://app.posthog.com",
-            persistence: "localStorage+cookie",
-          });
-        }
+        const posthog = (await import("posthog-js")).default;
+        posthog.init("phc_Sd7Bm5c2eRz4c5ig85fG6heD9AOuoCHxlc9lmhWGoRO", {
+          api_host: "https://us.posthog.com",
+          persistence: "localStorage+cookie",
+        });
+        posthog.capture("$pageview");
+        posthogLoaded = true;
       })();
     }
   }, [consent]);
