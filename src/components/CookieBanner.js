@@ -77,7 +77,7 @@ export default function Banner() {
         <p style={{ marginBottom: "0.5rem", fontSize: "0.9rem" }}>
           See{" "}
           <a
-            href="https://www.kazvee.com"
+            href="https://kazvee.com"
             target="_blank"
             rel="noopener noreferrer"
             style={{
