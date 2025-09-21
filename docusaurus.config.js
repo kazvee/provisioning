@@ -71,15 +71,7 @@ const config = {
   ],
 
   plugins: [
-    require.resolve('docusaurus-lunr-search'),
-    [
-      "posthog-docusaurus",
-      {
-        apiKey: "phc_Sd7Bm5c2eRz4c5ig85fG6heD9AOuoCHxlc9lmhWGoRO",
-        appUrl: "https://us.i.posthog.com",
-        enableInDevelopment: false,
-      },
-    ],
+    require.resolve('docusaurus-lunr-search')
   ],
 
   themeConfig:
