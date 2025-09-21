@@ -2,53 +2,43 @@
 
 import { useEffect, useState } from 'react';
 
-let posthogLoaded = false;
-
-export function cookieConsentGiven() {
-  if (typeof window === 'undefined') return 'undecided';
-  return localStorage.getItem('cookie_consent') ?? 'undecided';
-}
-
 export default function CookieBanner() {
   const [consent, setConsent] = useState('undecided');
   const [hovered, setHovered] = useState('');
-  const [show, setShow] = useState(false);
   const [fading, setFading] = useState(false);
+  const [posthogLoaded, setPosthogLoaded] = useState(false);
 
   useEffect(() => {
-    const stored = cookieConsentGiven();
+    const stored = localStorage.getItem('cookie_consent') ?? 'undecided';
     setConsent(stored);
-    if (stored === 'undecided') setTimeout(() => setShow(true), 100);
   }, []);
 
-  useEffect(() => {
-    if (consent === 'yes' && !posthogLoaded) {
-      (async () => {
-        const posthog = (await import('posthog-js')).default;
-        posthog.init('phc_Sd7Bm5c2eRz4c5ig85fG6heD9AOuoCHxlc9lmhWGoRO', {
-          api_host: 'https://us.posthog.com',
-          persistence: 'localStorage+cookie',
-        });
-        posthog.capture('$pageview');
-        posthogLoaded = true;
-      })();
-    }
-  }, [consent]);
-
-  const fadeAndSetConsent = (value) => {
+  const handleConsent = async (value) => {
     setFading(true);
-    setTimeout(() => {
+    setTimeout(async () => {
       localStorage.setItem('cookie_consent', value);
       setConsent(value);
-      setShow(false);
       setFading(false);
+
+      if (value === 'yes' && !posthogLoaded) {
+        try {
+          const posthog = (await import('posthog-js')).default;
+          posthog.init('phc_Sd7Bm5c2eRz4c5ig85fG6heD9AOuoCHxlc9lmhWGoRO', {
+            api_host: 'https://us.posthog.com',
+            persistence: 'localStorage+cookie',
+            autocapture: true,
+            disable_session_recording: false,
+          });
+          posthog.capture('$pageview');
+          setPosthogLoaded(true);
+        } catch (err) {
+          console.error('Failed to load PostHog', err);
+        }
+      }
     }, 500);
   };
 
-  const acceptCookies = () => fadeAndSetConsent('yes');
-  const declineCookies = () => fadeAndSetConsent('no');
-
-  if (consent !== 'undecided' && !show) return null;
+  if (consent !== 'undecided' && !fading) return null;
 
   return (
     <div
@@ -67,12 +57,13 @@ export default function CookieBanner() {
         color: '#fff',
         fontFamily: "'Inter', sans-serif",
         zIndex: 1000,
-        transform: show
-          ? 'scale(1) translateY(0)'
-          : 'scale(0.7) translateY(-50px)',
+        transform: fading
+          ? 'scale(0.7) translateY(-50px)'
+          : 'scale(1) translateY(0)',
         opacity: fading ? 0 : 1,
         transition: 'transform 0.5s ease-out, opacity 0.5s ease-out',
-      }}>
+      }}
+    >
       <div style={{ marginTop: '8rem', textAlign: 'right' }}>
         <p style={{ marginBottom: '0.5rem', fontSize: '0.9rem' }}>
           This site uses cookies so I can tell if anyone even visits. 😄
@@ -90,17 +81,17 @@ export default function CookieBanner() {
               color: '#fff',
               textDecoration: 'none',
               fontWeight: 'bold',
-            }}>
+            }}
+          >
             main site
           </a>{' '}
           for privacy policy.
         </p>
         <div>
           <button
-            type='button'
             onMouseEnter={() => setHovered('accept')}
             onMouseLeave={() => setHovered('')}
-            onClick={acceptCookies}
+            onClick={() => handleConsent('yes')}
             style={{
               backgroundColor:
                 hovered === 'accept'
@@ -115,14 +106,14 @@ export default function CookieBanner() {
               fontWeight: '600',
               fontSize: '0.7rem',
               transition: 'background-color 0.2s ease',
-            }}>
+            }}
+          >
             Accept 🍪
           </button>
           <button
-            type='button'
             onMouseEnter={() => setHovered('decline')}
             onMouseLeave={() => setHovered('')}
-            onClick={declineCookies}
+            onClick={() => handleConsent('no')}
             style={{
               backgroundColor:
                 hovered === 'decline' ? 'rgba(255,255,255,0.2)' : 'transparent',
@@ -134,7 +125,8 @@ export default function CookieBanner() {
               fontWeight: '600',
               fontSize: '0.7rem',
               transition: 'background-color 0.2s ease',
-            }}>
+            }}
+          >
             Decline ☹️
           </button>
         </div>
