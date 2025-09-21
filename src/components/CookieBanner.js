@@ -1,142 +1,140 @@
-"use client";
+'use client';
 
-import { useEffect, useState } from "react";
+import { useEffect, useState } from 'react';
 
-let posthogLoaded = false; // Module-level flag to prevent duplicate initialization
+let posthogLoaded = false;
 
 export function cookieConsentGiven() {
-  if (typeof window === "undefined") return "undecided";
-  return localStorage.getItem("cookie_consent") ?? "undecided";
+  if (typeof window === 'undefined') return 'undecided';
+  return localStorage.getItem('cookie_consent') ?? 'undecided';
 }
 
 export default function CookieBanner() {
-  const [consent, setConsent] = useState("undecided");
-  const [hovered, setHovered] = useState("");
+  const [consent, setConsent] = useState('undecided');
+  const [hovered, setHovered] = useState('');
   const [show, setShow] = useState(false);
+  const [fading, setFading] = useState(false);
 
-  // Check stored consent and trigger pop animation if undecided
   useEffect(() => {
     const stored = cookieConsentGiven();
     setConsent(stored);
-    if (stored === "undecided") setTimeout(() => setShow(true), 100);
+    if (stored === 'undecided') setTimeout(() => setShow(true), 100);
   }, []);
 
-  // Dynamic PostHog init after consent
   useEffect(() => {
-    if (consent === "yes" && !posthogLoaded) {
+    if (consent === 'yes' && !posthogLoaded) {
       (async () => {
-        const posthog = (await import("posthog-js")).default;
-        posthog.init("phc_Sd7Bm5c2eRz4c5ig85fG6heD9AOuoCHxlc9lmhWGoRO", {
-          api_host: "https://us.posthog.com",
-          persistence: "localStorage+cookie",
+        const posthog = (await import('posthog-js')).default;
+        posthog.init('phc_Sd7Bm5c2eRz4c5ig85fG6heD9AOuoCHxlc9lmhWGoRO', {
+          api_host: 'https://us.posthog.com',
+          persistence: 'localStorage+cookie',
         });
-        posthog.capture("$pageview");
+        posthog.capture('$pageview');
         posthogLoaded = true;
       })();
     }
   }, [consent]);
 
-  const acceptCookies = () => {
-    localStorage.setItem("cookie_consent", "yes");
-    setConsent("yes");
+  const fadeAndSetConsent = (value) => {
+    setFading(true);
+    setTimeout(() => {
+      localStorage.setItem('cookie_consent', value);
+      setConsent(value);
+      setShow(false);
+      setFading(false);
+    }, 500);
   };
 
-  const declineCookies = () => {
-    localStorage.setItem("cookie_consent", "no");
-    setConsent("no");
-  };
+  const acceptCookies = () => fadeAndSetConsent('yes');
+  const declineCookies = () => fadeAndSetConsent('no');
 
-  if (consent !== "undecided") return null;
+  if (consent !== 'undecided' && !show) return null;
 
   return (
     <div
       style={{
-        position: "fixed",
+        position: 'fixed',
         top: 0,
         right: 0,
-        width: "600px",
-        height: "600px",
-        background: "rgba(121, 25, 183, 0.90)",
-        clipPath: "polygon(100% 0, 0 0, 100% 100%)",
-        display: "flex",
-        alignItems: "flex-start",
-        justifyContent: "flex-end",
-        padding: "1rem",
-        color: "#fff",
+        width: '600px',
+        height: '600px',
+        background: 'rgba(121, 25, 183, 0.90)',
+        clipPath: 'polygon(100% 0, 0 0, 100% 100%)',
+        display: 'flex',
+        alignItems: 'flex-start',
+        justifyContent: 'flex-end',
+        padding: '1rem',
+        color: '#fff',
         fontFamily: "'Inter', sans-serif",
         zIndex: 1000,
         transform: show
-          ? "scale(1) translateY(0)"
-          : "scale(0.7) translateY(-50px)",
-        opacity: show ? 1 : 0,
-        transition: "transform 0.5s ease-out, opacity 0.5s ease-out",
-      }}
-    >
-      <div style={{ marginTop: "8rem", textAlign: "right" }}>
-        <p style={{ marginBottom: "0.5rem", fontSize: "0.9rem" }}>
+          ? 'scale(1) translateY(0)'
+          : 'scale(0.7) translateY(-50px)',
+        opacity: fading ? 0 : 1,
+        transition: 'transform 0.5s ease-out, opacity 0.5s ease-out',
+      }}>
+      <div style={{ marginTop: '8rem', textAlign: 'right' }}>
+        <p style={{ marginBottom: '0.5rem', fontSize: '0.9rem' }}>
           This site uses cookies so I can tell if anyone even visits. 😄
         </p>
-        <p style={{ marginBottom: "0.5rem", fontSize: "0.9rem" }}>
+        <p style={{ marginBottom: '0.5rem', fontSize: '0.9rem' }}>
           Please accept cookies to help me improve. ❤️
         </p>
-        <p style={{ marginBottom: "0.5rem", fontSize: "0.9rem" }}>
-          See{" "}
+        <p style={{ marginBottom: '0.5rem', fontSize: '0.9rem' }}>
+          See{' '}
           <a
-            href="https://kazvee.com"
-            target="_blank"
-            rel="noopener noreferrer"
+            href='https://kazvee.com'
+            target='_blank'
+            rel='noopener noreferrer'
             style={{
-              color: "#fff",
-              textDecoration: "none",
-              fontWeight: "bold",
-            }}
-          >
+              color: '#fff',
+              textDecoration: 'none',
+              fontWeight: 'bold',
+            }}>
             main site
-          </a>{" "}
+          </a>{' '}
           for privacy policy.
         </p>
         <div>
           <button
-            type="button"
-            onMouseEnter={() => setHovered("accept")}
-            onMouseLeave={() => setHovered("")}
+            type='button'
+            onMouseEnter={() => setHovered('accept')}
+            onMouseLeave={() => setHovered('')}
             onClick={acceptCookies}
             style={{
               backgroundColor:
-                hovered === "accept"
-                  ? "rgba(5, 104, 5, 0.9)"
-                  : "rgba(0, 128, 0, 0.85)",
-              color: "#fff",
-              border: "1px solid #fff",
-              borderRadius: "4px",
-              padding: "0.3rem 0.6rem",
-              cursor: "pointer",
-              marginRight: "0.3rem",
-              fontWeight: "600",
-              fontSize: "0.7rem",
-              transition: "background-color 0.2s ease",
-            }}
-          >
+                hovered === 'accept'
+                  ? 'rgba(5, 104, 5, 0.9)'
+                  : 'rgba(0, 128, 0, 0.85)',
+              color: '#fff',
+              border: '1px solid #fff',
+              borderRadius: '4px',
+              padding: '0.3rem 0.6rem',
+              cursor: 'pointer',
+              marginRight: '0.3rem',
+              fontWeight: '600',
+              fontSize: '0.7rem',
+              transition: 'background-color 0.2s ease',
+            }}>
             Accept 🍪
           </button>
           <button
-            type="button"
-            onMouseEnter={() => setHovered("decline")}
-            onMouseLeave={() => setHovered("")}
+            type='button'
+            onMouseEnter={() => setHovered('decline')}
+            onMouseLeave={() => setHovered('')}
             onClick={declineCookies}
             style={{
               backgroundColor:
-                hovered === "decline" ? "rgba(255,255,255,0.2)" : "transparent",
-              color: "#fff",
-              border: "1px solid #fff",
-              borderRadius: "4px",
-              padding: "0.3rem 0.6rem",
-              cursor: "pointer",
-              fontWeight: "600",
-              fontSize: "0.7rem",
-              transition: "background-color 0.2s ease",
-            }}
-          >
+                hovered === 'decline' ? 'rgba(255,255,255,0.2)' : 'transparent',
+              color: '#fff',
+              border: '1px solid #fff',
+              borderRadius: '4px',
+              padding: '0.3rem 0.6rem',
+              cursor: 'pointer',
+              fontWeight: '600',
+              fontSize: '0.7rem',
+              transition: 'background-color 0.2s ease',
+            }}>
             Decline ☹️
           </button>
         </div>
