@@ -71,7 +71,7 @@ const config = {
   ],
 
   plugins: [
-    require.resolve('docusaurus-lunr-search'),
+    require.resolve('docusaurus-lunr-search')
   ],
 
   themeConfig:
@@ -147,7 +147,7 @@ const config = {
             ],
           },
         ],
-        // copyright: `Copyright © ${new Date().getFullYear()} kazvee.com`,        
+        // copyright: `Copyright © ${new Date().getFullYear()} kazvee.com`,
       },
       prism: {
         theme: prismThemes.github,
