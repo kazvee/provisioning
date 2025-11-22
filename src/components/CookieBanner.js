@@ -23,7 +23,7 @@ export default function CookieBanner() {
       if (value === 'yes' && !posthogLoaded) {
         try {
           const posthog = (await import('posthog-js')).default;
-          posthog.init('phc_Sd7Bm5c2eRz4c5ig85fG6heD9AOuoCHxlc9lmhWGoRO', {
+          posthog.init('phc_fS8id3L1tcXRmcm14zACwCNdtCEBYZUqX9LfgKoCOpq', {
             api_host: 'https://us.posthog.com',
             persistence: 'localStorage+cookie',
             autocapture: true,
