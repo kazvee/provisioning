@@ -1,17 +1,20 @@
-'use client';
-
 import { useEffect, useState } from 'react';
 
 export default function CookieBanner() {
+  const [mounted, setMounted] = useState(false);
   const [consent, setConsent] = useState('undecided');
   const [hovered, setHovered] = useState('');
   const [fading, setFading] = useState(false);
   const [posthogLoaded, setPosthogLoaded] = useState(false);
 
   useEffect(() => {
+    setMounted(true);
     const stored = localStorage.getItem('cookie_consent') ?? 'undecided';
     setConsent(stored);
   }, []);
+
+  if (!mounted) return null;
+  if (consent !== 'undecided' && !fading) return null;
 
   const handleConsent = async (value) => {
     setFading(true);
@@ -37,8 +40,6 @@ export default function CookieBanner() {
       }
     }, 500);
   };
-
-  if (consent !== 'undecided' && !fading) return null;
 
   return (
     <div
