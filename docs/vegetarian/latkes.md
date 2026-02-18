@@ -1,6 +1,6 @@
 ---
-title: Slow Cooker BBQ Pulled Jackfruit
-description: Slow Cooker BBQ Pulled Jackfruit
+title: Latkes
+description: Latkes
 tags: [in-my-kitchen, cast-iron, potato, vegetarian, photos]
 ---
 
