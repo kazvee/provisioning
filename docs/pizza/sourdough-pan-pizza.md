@@ -1,7 +1,7 @@
 ---
 title: Sourdough Pan Pizza
 description: Sourdough Pan Pizza
-tags: [pizza, in-my-kitchen, cast-iron, photos]
+tags: [pizza, sourdough, in-my-kitchen, cast-iron, photos]
 ---
 
 # Sourdough Pan Pizza
