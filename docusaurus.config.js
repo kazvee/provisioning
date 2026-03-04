@@ -3,7 +3,7 @@
 // (when paired with `@ts-check`).
 // There are various equivalent ways to declare your Docusaurus config.
 // See: https://docusaurus.io/docs/api/docusaurus-config
-
+import 'dotenv/config';
 import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
@@ -77,6 +77,11 @@ const config = {
   plugins: [
     require.resolve('docusaurus-lunr-search')
   ],
+
+  customFields: {
+    posthogKey: process.env.POSTHOG_KEY,
+    posthogHost: process.env.POSTHOG_HOST,
+  },
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
