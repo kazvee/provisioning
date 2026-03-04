@@ -1,11 +1,15 @@
 import { useEffect, useState } from 'react';
+import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
+import posthog from 'posthog-js';
 
 export default function CookieBanner() {
+  const { siteConfig } = useDocusaurusContext();
+  const { posthogKey, posthogHost } = siteConfig.customFields;
+
   const [mounted, setMounted] = useState(false);
   const [consent, setConsent] = useState('undecided');
   const [hovered, setHovered] = useState('');
   const [fading, setFading] = useState(false);
-  const [posthogLoaded, setPosthogLoaded] = useState(false);
 
   useEffect(() => {
     setMounted(true);
@@ -13,33 +17,36 @@ export default function CookieBanner() {
     setConsent(stored);
   }, []);
 
-  if (!mounted) return null;
-  if (consent !== 'undecided' && !fading) return null;
-
-  const handleConsent = async (value) => {
+  const handleConsent = (value) => {
     setFading(true);
-    setTimeout(async () => {
+    setTimeout(() => {
       localStorage.setItem('cookie_consent', value);
       setConsent(value);
       setFading(false);
 
-      if (value === 'yes' && !posthogLoaded) {
-        try {
-          const posthog = (await import('posthog-js')).default;
-          posthog.init('phc_fS8id3L1tcXRmcm14zACwCNdtCEBYZUqX9LfgKoCOpq', {
-            api_host: 'https://us.posthog.com',
-            persistence: 'localStorage+cookie',
+      if (value === 'yes') {
+        if (!window.posthog._initialized) {
+          posthog.init(posthogKey, {
+            api_host: posthogHost,
             autocapture: true,
-            disable_session_recording: false,
+            person_profiles: 'identified_only',
+            cookie_domain: window.location.hostname,
           });
-          posthog.capture('$pageview');
-          setPosthogLoaded(true);
-        } catch (err) {
-          console.error('Failed to load PostHog', err);
+          window.posthog._initialized = true;
         }
+
+        posthog.opt_in_capturing();
+        posthog.capture('$pageview');
+      }
+
+      if (value === 'no') {
+        posthog.opt_out_capturing();
       }
     }, 500);
   };
+
+  if (!mounted) return null;
+  if (consent !== 'undecided' && !fading) return null;
 
   return (
     <div
