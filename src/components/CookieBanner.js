@@ -129,6 +129,7 @@ export default function CookieBanner() {
         </p>
         <div>
           <button
+            aria-label='Accept cookies'
             onMouseEnter={() => setHovered('accept')}
             onMouseLeave={() => setHovered('')}
             onClick={() => handleConsent('yes')}
@@ -151,6 +152,7 @@ export default function CookieBanner() {
             Accept 🍪
           </button>
           <button
+            aria-label='Decline cookies'
             onMouseEnter={() => setHovered('decline')}
             onMouseLeave={() => setHovered('')}
             onClick={() => handleConsent('no')}
