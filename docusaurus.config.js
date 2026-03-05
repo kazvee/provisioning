@@ -81,6 +81,9 @@ const config = {
   customFields: {
     posthogKey: process.env.POSTHOG_KEY,
     posthogHost: process.env.POSTHOG_HOST,
+    umamiWebsiteId: process.env.UMAMI_WEBSITE_ID,
+    umamiScriptUrl: process.env.UMAMI_SCRIPT_URL,
+    cloudflareToken: process.env.CLOUDFLARE_TOKEN,
   },
 
   themeConfig:
