@@ -4,7 +4,13 @@ import posthog from 'posthog-js';
 
 export default function CookieBanner() {
   const { siteConfig } = useDocusaurusContext();
-  const { posthogKey, posthogHost } = siteConfig.customFields;
+  const {
+    posthogKey,
+    posthogHost,
+    umamiWebsiteId,
+    umamiScriptUrl,
+    cloudflareBeaconToken,
+  } = siteConfig.customFields ?? {};
 
   const [mounted, setMounted] = useState(false);
   const [consent, setConsent] = useState('undecided');
@@ -25,7 +31,7 @@ export default function CookieBanner() {
       setFading(false);
 
       if (value === 'yes') {
-        if (!window.posthog._initialized) {
+        if (!window.posthog?._initialized) {
           posthog.init(posthogKey, {
             api_host: posthogHost,
             autocapture: true,
@@ -37,10 +43,36 @@ export default function CookieBanner() {
 
         posthog.opt_in_capturing();
         posthog.capture('$pageview');
+
+        if (!document.getElementById('umami-script') && umamiWebsiteId && umamiScriptUrl) {
+          const umamiScript = document.createElement('script');
+          umamiScript.id = 'umami-script';
+          umamiScript.async = true;
+          umamiScript.defer = true;
+          umamiScript.setAttribute('data-website-id', umamiWebsiteId);
+          umamiScript.src = umamiScriptUrl;
+          document.body.appendChild(umamiScript);
+        }
+
+        if (!document.getElementById('cf-beacon') && cloudflareBeaconToken) {
+          const cfScript = document.createElement('script');
+          cfScript.id = 'cf-beacon';
+          cfScript.defer = true;
+          cfScript.src = 'https://static.cloudflareinsights.com/beacon.min.js';
+          cfScript.setAttribute(
+            'data-cf-beacon',
+            JSON.stringify({ token: cloudflareBeaconToken })
+          );
+          document.body.appendChild(cfScript);
+        }
       }
 
       if (value === 'no') {
-        posthog.opt_out_capturing();
+        if (window.posthog?.opt_out_capturing) posthog.opt_out_capturing();
+        const umamiScript = document.getElementById('umami-script');
+        if (umamiScript) umamiScript.remove();
+        const cfScript = document.getElementById('cf-beacon');
+        if (cfScript) cfScript.remove();
       }
     }, 500);
   };
@@ -97,6 +129,7 @@ export default function CookieBanner() {
         </p>
         <div>
           <button
+            aria-label='Accept cookies'
             onMouseEnter={() => setHovered('accept')}
             onMouseLeave={() => setHovered('')}
             onClick={() => handleConsent('yes')}
@@ -119,6 +152,7 @@ export default function CookieBanner() {
             Accept 🍪
           </button>
           <button
+            aria-label='Decline cookies'
             onMouseEnter={() => setHovered('decline')}
             onMouseLeave={() => setHovered('')}
             onClick={() => handleConsent('no')}
