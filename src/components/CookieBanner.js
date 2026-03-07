@@ -1,5 +1,6 @@
 import { useEffect, useState } from 'react';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
+import { useLocation } from '@docusaurus/router';
 import posthog from 'posthog-js';
 
 export default function CookieBanner() {
@@ -17,11 +18,59 @@ export default function CookieBanner() {
   const [hovered, setHovered] = useState('');
   const [fading, setFading] = useState(false);
 
+  const location = useLocation();
+
   useEffect(() => {
     setMounted(true);
     const stored = localStorage.getItem('cookie_consent') ?? 'undecided';
     setConsent(stored);
   }, []);
+
+  useEffect(() => {
+    if (consent !== 'yes') return;
+
+    posthog.init(posthogKey, {
+      api_host: posthogHost,
+      autocapture: true,
+      person_profiles: 'identified_only',
+      cookie_domain: window.location.hostname,
+      capture_pageview: false,
+    });
+
+    posthog.opt_in_capturing();
+
+    if (!document.getElementById('umami-script') && umamiWebsiteId && umamiScriptUrl) {
+      const umamiScript = document.createElement('script');
+      umamiScript.id = 'umami-script';
+      umamiScript.async = true;
+      umamiScript.defer = true;
+      umamiScript.setAttribute('data-website-id', umamiWebsiteId);
+      umamiScript.src = umamiScriptUrl;
+      document.body.appendChild(umamiScript);
+    }
+
+    if (!document.getElementById('cf-beacon') && cloudflareBeaconToken) {
+      const cfScript = document.createElement('script');
+      cfScript.id = 'cf-beacon';
+      cfScript.defer = true;
+      cfScript.src = 'https://static.cloudflareinsights.com/beacon.min.js';
+      cfScript.setAttribute(
+        'data-cf-beacon',
+        JSON.stringify({ token: cloudflareBeaconToken })
+      );
+      document.body.appendChild(cfScript);
+    }
+  }, [consent]);
+
+  useEffect(() => {
+    if (consent !== 'yes') return;
+
+    posthog.capture('$pageview', {
+      path: location.pathname,
+      title: document.title,
+      url: window.location.href,
+    });
+  }, [location.pathname, consent]);
 
   const handleConsent = (value) => {
     setFading(true);
@@ -30,45 +79,8 @@ export default function CookieBanner() {
       setConsent(value);
       setFading(false);
 
-      if (value === 'yes') {
-        if (!window.posthog?._initialized) {
-          posthog.init(posthogKey, {
-            api_host: posthogHost,
-            autocapture: true,
-            person_profiles: 'identified_only',
-            cookie_domain: window.location.hostname,
-          });
-          window.posthog._initialized = true;
-        }
-
-        posthog.opt_in_capturing();
-        posthog.capture('$pageview');
-
-        if (!document.getElementById('umami-script') && umamiWebsiteId && umamiScriptUrl) {
-          const umamiScript = document.createElement('script');
-          umamiScript.id = 'umami-script';
-          umamiScript.async = true;
-          umamiScript.defer = true;
-          umamiScript.setAttribute('data-website-id', umamiWebsiteId);
-          umamiScript.src = umamiScriptUrl;
-          document.body.appendChild(umamiScript);
-        }
-
-        if (!document.getElementById('cf-beacon') && cloudflareBeaconToken) {
-          const cfScript = document.createElement('script');
-          cfScript.id = 'cf-beacon';
-          cfScript.defer = true;
-          cfScript.src = 'https://static.cloudflareinsights.com/beacon.min.js';
-          cfScript.setAttribute(
-            'data-cf-beacon',
-            JSON.stringify({ token: cloudflareBeaconToken })
-          );
-          document.body.appendChild(cfScript);
-        }
-      }
-
       if (value === 'no') {
-        if (window.posthog?.opt_out_capturing) posthog.opt_out_capturing();
+        posthog.opt_out_capturing();
         const umamiScript = document.getElementById('umami-script');
         if (umamiScript) umamiScript.remove();
         const cfScript = document.getElementById('cf-beacon');
