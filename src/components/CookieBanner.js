@@ -97,6 +97,7 @@ export default function CookieBanner() {
         color: '#fff',
         fontFamily: "'Inter', sans-serif",
         zIndex: 1000,
+        transformOrigin: 'top right',
         transform: fading
           ? 'scale(0.7) translateY(-50px)'
           : 'scale(1) translateY(0)',
