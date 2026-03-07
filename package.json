@@ -30,7 +30,6 @@
   "devDependencies": {
     "@docusaurus/module-type-aliases": "^3.9.2",
     "@docusaurus/types": "^3.9.2",
-    "baseline-browser-mapping": "^2.8.29",
     "cross-env": "^10.1.0"
   },
   "browserslist": {
