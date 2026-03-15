@@ -4,7 +4,7 @@
 // There are various equivalent ways to declare your Docusaurus config.
 // See: https://docusaurus.io/docs/api/docusaurus-config
 import 'dotenv/config';
-import {themes as prismThemes} from 'prism-react-renderer';
+import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -24,7 +24,7 @@ const config = {
   projectName: 'provisioning', // Usually your repo name.
 
   onBrokenLinks: 'throw',
-    markdown: {
+  markdown: {
     hooks: {
       onBrokenMarkdownLinks: 'warn', // v4
     },
@@ -78,14 +78,6 @@ const config = {
     require.resolve('docusaurus-lunr-search')
   ],
 
-  customFields: {
-    posthogKey: process.env.POSTHOG_KEY,
-    posthogHost: process.env.POSTHOG_HOST,
-    umamiWebsiteId: process.env.UMAMI_WEBSITE_ID,
-    umamiScriptUrl: process.env.UMAMI_SCRIPT_URL,
-    cloudflareToken: process.env.CLOUDFLARE_TOKEN,
-  },
-
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
@@ -119,6 +111,10 @@ const config = {
               {
                 label: 'About this Site',
                 to: '/docs/intro',
+              },
+              {
+                label: 'Privacy Policy',
+                to: '/docs/privacy',
               },
             ],
           },
@@ -166,6 +162,19 @@ const config = {
         darkTheme: prismThemes.dracula,
       },
     }),
+  scripts: [
+    {
+      src: process.env.UMAMI_SCRIPT_URL,
+      async: true,
+      defer: true,
+      'data-website-id': process.env.UMAMI_WEBSITE_ID,
+    },
+    {
+      src: 'https://static.cloudflareinsights.com/beacon.min.js',
+      defer: true,
+      'data-cf-beacon': `{"token":"${process.env.CLOUDFLARE_TOKEN}"}`,
+    },
+  ],
 };
 
 export default config;
