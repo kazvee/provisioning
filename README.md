@@ -22,7 +22,8 @@ A demo can be viewed ✨[HERE](https://provisioning.kazvee.com/)✨
 * Real recipe photos showcasing delicious results
 * Mobile-responsive site for optimal viewing across all devices
 * Dynamic image carousel on the landing page for a visually engaging user experience
-* Analytics powered by [PostHog](https://posthog.com/)
+* [Umami](https://umami.is/) (privacy-friendly analytics)  
+* [Cloudflare Web Analytics](https://www.cloudflare.com/products/web-analytics/)  
 
 ## Installation
 
