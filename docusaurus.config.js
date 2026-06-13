@@ -100,6 +100,10 @@ const config = {
             label: 'Browse Recipes by Tag',
             position: 'left',
           },
+          {
+            type: 'search',
+            position: 'right',
+          },       
         ],
       },
       footer: {
